@@ -1,0 +1,572 @@
+,company_name,experience,location,skills,posted_at
+0,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Jeddah,"business system  ,  infrastructure  ,  data scientist",Posted 3 days ago
+1,HyreFox Consultants,0 - 3 yrs,Jaipur,"data science  ,  data cleaning  ,  data scientist  ,  dashboards",Posted 5 days ago
+2,Nielsen Research Ltd. Co.,4 - 7 yrs,Mumbai,"visualization  ,  dashboards  ,  tableau  ,  data science  ,  data scientist",Posted few days ago
+3,RedLotus,0 - 3 yrs,Mumbai,"data scientist  ,  statistical modeling  ,  data visualization",Posted few days ago
+4,Armaco Chemical Processes Systems Pvt Ltd,3 - 7 yrs,Jeddah,"bi  ,  sql  ,  database  ,  data science  ,  data scientist  ,  data visualization  ,  data analytics  ,  tableau  ,  qlik sense  ,  infrastructure",Posted 3 days ago
+5,Datagrid Solutions,5 - 6 yrs,Mumbai,"data analysis  ,  linear regression  ,  ensemble  ,  tableau  ,  data science  ,  data scientist  ,  data visualization",Posted few days ago
+6,RGF Professional,7 - 10 yrs,Pune,"bi  ,  business case development  ,  sql  ,  tableau  ,  data science  ,  project delivery  ,  data scientist  ,  analyst",Posted few days ago
+7,Armaco Chemical Processes Systems Pvt Ltd,5 - 8 yrs,,"time series analysis  ,  visualization  ,  business solutions  ,  data science  ,  data scientist  ,  advanced analytics  ,  infrastructure  ,  predictive modeling",Posted few days ago
+8,TERADATA INDIA PVT LTD,0 - 3 yrs,Japan,"visualization  ,  conference  ,  anova  ,  dashboards  ,  data science  ,  data scientist  ,  client facing  ,  data analysis  ,  consulting  ,  tableau  ,  qlik sense",Posted a month ago
+9,TECHNOPARK TRIVANDRUM,3 - 5 yrs,Thiruvananthapuram,"regression analysis  ,  logistic regression  ,  advanced analytics  ,  data analytics  ,  data cleaning  ,  data mining  ,  bi  ,  linear regression  ,  ensemble  ,  sql  ,  database  ,  data science  ,  data scientist  ,  data visualization  ,  cluster analysis  ,  tableau",Posted few days ago
+10,Efftronics Systems Pvt Ltd,5 - 8 yrs,Vijayawada,"c    ,  data analysis  ,  business requirements  ,  data mining  ,  java  ,  predictive modeling  ,  data scientist  ,  statistical analysis  ,  design thinking  ,  predictive analysis",Posted few days ago
+11,BizViz Technologies,3 - 6 yrs,"Hyderabad/Secunderabad,  Bengaluru / Bangalore","data mining  ,  sql  ,  data scientist  ,  predictive analysis  ,  advanced analytics  ,  data analysis  ,  sas  ,  author  ,  predictive analytics  ,  algorithm development  ,  statistical analysis",Posted few days ago
+12,axmiyan hr solutions private limited,3 - 6 yrs,Gurgaon,"time series analysis  ,  linear regression  ,  data science  ,  data scientist  ,  logistic regression  ,  image processing  ,  advanced analytics  ,  factor analysis",Posted few days ago
+13,g7 cr technologies,1 - 4 yrs,Bengaluru / Bangalore,"algorithms  ,  data mining  ,  bi  ,  sql  ,  python  ,  machine learning",Posted 2 days ago
+14,Informatica,3 - 5 yrs,Bengaluru / Bangalore,"data mining  ,  sql  ,  hadoop  ,  big data  ,  mongodb  ,  python  ,  natural language processing  ,  sas  ,  mining  ,  machine learning  ,  cassandra",Posted 5 days ago
+15,Orange Business Services,0 - 3 yrs,Gurgaon,"hive  ,  algorithms  ,  data mining  ,  sql  ,  d3.js  ,  api  ,  big data  ,  python  ,  machine learning  ,  nosql",Posted 1 day ago
+16,CONNECTING 2 WORK,0 - 3 yrs,Thiruvananthapuram,"hive  ,  data mining  ,  bi  ,  sql  ,  database  ,  java  ,  hadoop  ,  big data  ,  python  ,  c  ,  impala  ,  mapreduce  ,  hdfs",Posted 4 days ago
+17,Sumo Digital Ltd,2 - 10 yrs,,"hive  ,  games  ,  big data  ,  python  ,  machine learning  ,  ruby  ,  pathway",Posted 5 days ago
+18,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 1 day ago
+19,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 2 days ago
+20,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 3 days ago
+21,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 4 days ago
+22,string bio pvt. ltd,2 - 5 yrs,Bengaluru / Bangalore,"algorithms  ,  c    ,  data mining  ,  sql  ,  python",Posted few days ago
+23,NLP People,2 - 5 yrs,Gurgaon,"algorithms  ,  artificial intelligence  ,  hadoop  ,  big data  ,  python  ,  information retrieval  ,  machine learning",Posted few days ago
+24,BrainToSoul Consulting,5 - 8 yrs,Bengaluru / Bangalore,"hive  ,  data mining  ,  sql  ,  nosql  ,  mongodb",Posted few days ago
+25,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Jeddah,"business system  ,  infrastructure  ,  data scientist",Posted 3 days ago
+26,HyreFox Consultants,0 - 3 yrs,Jaipur,"data science  ,  data cleaning  ,  data scientist  ,  dashboards",Posted 5 days ago
+27,Nielsen Research Ltd. Co.,4 - 7 yrs,Mumbai,"visualization  ,  dashboards  ,  tableau  ,  data science  ,  data scientist",Posted few days ago
+28,RedLotus,0 - 3 yrs,Mumbai,"data scientist  ,  statistical modeling  ,  data visualization",Posted few days ago
+29,Armaco Chemical Processes Systems Pvt Ltd,3 - 7 yrs,Jeddah,"bi  ,  sql  ,  database  ,  data science  ,  data scientist  ,  data visualization  ,  data analytics  ,  tableau  ,  qlik sense  ,  infrastructure",Posted 3 days ago
+30,Datagrid Solutions,5 - 6 yrs,Mumbai,"data analysis  ,  linear regression  ,  ensemble  ,  tableau  ,  data science  ,  data scientist  ,  data visualization",Posted few days ago
+31,RGF Professional,7 - 10 yrs,Pune,"bi  ,  business case development  ,  sql  ,  tableau  ,  data science  ,  project delivery  ,  data scientist  ,  analyst",Posted few days ago
+32,Armaco Chemical Processes Systems Pvt Ltd,5 - 8 yrs,,"time series analysis  ,  visualization  ,  business solutions  ,  data science  ,  data scientist  ,  advanced analytics  ,  infrastructure  ,  predictive modeling",Posted few days ago
+33,TERADATA INDIA PVT LTD,0 - 3 yrs,Japan,"visualization  ,  conference  ,  anova  ,  dashboards  ,  data science  ,  data scientist  ,  client facing  ,  data analysis  ,  consulting  ,  tableau  ,  qlik sense",Posted a month ago
+34,TECHNOPARK TRIVANDRUM,3 - 5 yrs,Thiruvananthapuram,"regression analysis  ,  logistic regression  ,  advanced analytics  ,  data analytics  ,  data cleaning  ,  data mining  ,  bi  ,  linear regression  ,  ensemble  ,  sql  ,  database  ,  data science  ,  data scientist  ,  data visualization  ,  cluster analysis  ,  tableau",Posted few days ago
+35,Efftronics Systems Pvt Ltd,5 - 8 yrs,Vijayawada,"c    ,  data analysis  ,  business requirements  ,  data mining  ,  java  ,  predictive modeling  ,  data scientist  ,  statistical analysis  ,  design thinking  ,  predictive analysis",Posted few days ago
+36,BizViz Technologies,3 - 6 yrs,"Hyderabad/Secunderabad,  Bengaluru / Bangalore","data mining  ,  sql  ,  data scientist  ,  predictive analysis  ,  advanced analytics  ,  data analysis  ,  sas  ,  author  ,  predictive analytics  ,  algorithm development  ,  statistical analysis",Posted few days ago
+37,axmiyan hr solutions private limited,3 - 6 yrs,Gurgaon,"time series analysis  ,  linear regression  ,  data science  ,  data scientist  ,  logistic regression  ,  image processing  ,  advanced analytics  ,  factor analysis",Posted few days ago
+38,g7 cr technologies,1 - 4 yrs,Bengaluru / Bangalore,"algorithms  ,  data mining  ,  bi  ,  sql  ,  python  ,  machine learning",Posted 2 days ago
+39,Informatica,3 - 5 yrs,Bengaluru / Bangalore,"data mining  ,  sql  ,  hadoop  ,  big data  ,  mongodb  ,  python  ,  natural language processing  ,  sas  ,  mining  ,  machine learning  ,  cassandra",Posted 5 days ago
+40,Orange Business Services,0 - 3 yrs,Gurgaon,"hive  ,  algorithms  ,  data mining  ,  sql  ,  d3.js  ,  api  ,  big data  ,  python  ,  machine learning  ,  nosql",Posted 1 day ago
+41,CONNECTING 2 WORK,0 - 3 yrs,Thiruvananthapuram,"hive  ,  data mining  ,  bi  ,  sql  ,  database  ,  java  ,  hadoop  ,  big data  ,  python  ,  c  ,  impala  ,  mapreduce  ,  hdfs",Posted 4 days ago
+42,Sumo Digital Ltd,2 - 10 yrs,,"hive  ,  games  ,  big data  ,  python  ,  machine learning  ,  ruby  ,  pathway",Posted 5 days ago
+43,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 1 day ago
+44,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 2 days ago
+45,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 3 days ago
+46,PAGO Analytics,2 - 5 yrs,Hyderabad/Secunderabad,"image processing  ,  algorithms  ,  python  ,  c    ,  c  ,  data mining  ,  team player  ,  machine learning  ,  logical thinking  ,  infrastructure  ,  system architecture",Posted 4 days ago
+47,string bio pvt. ltd,2 - 5 yrs,Bengaluru / Bangalore,"algorithms  ,  c    ,  data mining  ,  sql  ,  python",Posted few days ago
+48,NLP People,2 - 5 yrs,Gurgaon,"algorithms  ,  artificial intelligence  ,  hadoop  ,  big data  ,  python  ,  information retrieval  ,  machine learning",Posted few days ago
+49,BrainToSoul Consulting,5 - 8 yrs,Bengaluru / Bangalore,"hive  ,  data mining  ,  sql  ,  nosql  ,  mongodb",Posted few days ago
+50,TandA HR Solutions,1 - 4 yrs,Gurgaon,"hive  ,  algorithms  ,  data mining  ,  pig  ,  data structures  ,  hadoop  ,  big data  ,  python  ,  sas  ,  oozie  ,  machine learning",Posted few days ago
+51,Cellworks,0 - 3 yrs,,"algorithms  ,  python  ,  data mining  ,  machine learning  ,  nosql  ,  d3.js  ,  java  ,  data structures  ,  mysql",Posted few days ago
+52,LogicPlum Private Limited,4 - 7 yrs,,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+53,LogicPlum Private Limited,4 - 7 yrs,,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+54,LogicPlum Private Limited,4 - 7 yrs,,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+55,LogicPlum Private Limited,4 - 7 yrs,Canada,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+56,LogicPlum Private Limited,4 - 7 yrs,France,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+57,LogicPlum Private Limited,4 - 7 yrs,,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+58,LogicPlum Private Limited,4 - 7 yrs,,"artificial intelligence  ,  sql  ,  database  ,  data structures  ,  technical skills  ,  python  ,  machine learning",Posted few days ago
+59,TandA HR Solutions,3 - 5 yrs,Panchkula,"algorithms  ,  docker  ,  sql  ,  productionenvironment  ,  natural languageprocessing  ,  data structures  ,  hadoop  ,  python  ,  information retrieval  ,  problem solving  ,  machine learning",Posted few days ago
+60,ion trading india pvt. ltd.,0 - 3 yrs,Italy,"hive  ,  cloudera  ,  algorithms  ,  data mining  ,  dbms  ,  sql  ,  java  ,  xml  ,  mysql  ,  hadoop  ,  big data  ,  hbase  ,  python  ,  microsoft azure  ,  problem solving  ,  impala  ,  machine learning  ,  hdfs",Posted few days ago
+61,Armaco Chemical Processes Systems Pvt Ltd,7 - 10 yrs,Jeddah,"reports  ,  cma  ,  management accounting  ,  reporting  ,  cfa  ,  excel  ,  finance",Posted 1 day ago
+62,demoport,3 - 5 yrs,Chennai,"data mining  ,  problem solving  ,  sql  ,  cassandra  ,  system architecture  ,  hdfs  ,  hadoop",Posted few days ago
+63,nutanxt technologies,1 - 4 yrs,Pune,"data sources  ,  deploying application  ,  methods  using advanced",Posted few days ago
+64,aeries technology group  ( sabre industries ),5 - 8 yrs,"Hyderabad/Secunderabad,  Mumbai,  Bengaluru / Bangalore","hive  ,  fundamentals  ,  algorithms  ,  information technology  ,  data mining  ,  bi  ,  sql  ,  data extraction  ,  atg  ,  mongodb  ,  python  ,  rdbms  ,  machine learning  ,  nosql  ,  cassandra  ,  infrastructure",Posted few days ago
+65,pratibha analytics,3 - 20 yrs,Hyderabad/Secunderabad,"advanced analytics  ,  sas  ,  data science  ,  spss",Posted few days ago
+66,Innoplexus Consulting Services Private Limited,4 - 8 yrs,Pune,"algorithms  ,  artificial intelligence  ,  hci  ,  image processing  ,  python  ,  machine learning",Posted 3 days ago
+67,GenieTalk,0 - 3 yrs,Indore,"hive  ,  algorithms  ,  data mining  ,  lucene  ,  sql  ,  pig  ,  docker  ,  d3.js  ,  java  ,  git  ,  mongodb  ,  python  ,  natural language processing  ,  svn  ,  machine learning",Posted few days ago
+68,ispatial techno solutions pvt ltd.,7 - 10 yrs,Hyderabad/Secunderabad,"algorithms  ,  c    ,  scala  ,  data mining  ,  sql  ,  java  ,  mysql  ,  hadoop  ,  middleware  ,  python  ,  oracle  ,  mq  ,  nosql",Posted few days ago
+69,covalense global,7 - 10 yrs,Hyderabad/Secunderabad,"algorithms  ,  data mining  ,  sql  ,  big data  ,  python  ,  machine learning",Posted few days ago
+70,nielsensports,0 - 3 yrs,Jeddah,"artificial intelligence  ,  database  ,  problem solving  ,  team player  ,  machine learning  ,  data communication",Posted few days ago
+71,SRINSOFT TECHNOLOGIES,3 - 5 yrs,Chennai,"algorithms  ,  bi  ,  sql  ,  hadoop  ,  big data  ,  python  ,  machine learning",Posted few days ago
+72,Travel Centric Technology,6 - 9 yrs,Bengaluru / Bangalore,"algorithms  ,  data mining  ,  java  ,  c#  ,  rest  ,  python  ,  team player  ,  machine learning  ,  artificial neural networks  ,  .net",Posted few days ago
+73,alliance recruitment agency,3 - 4 yrs,Noida/Greater Noida,"algorithms  ,  data mining  ,  bi  ,  sql  ,  java  ,  unix shell scripting  ,  linux  ,  big data  ,  python  ,  machine learning  ,  infrastructure  ,  unix",Posted few days ago
+74,Tridiagonal Solutions Pvt. Ltd.,1 - 4 yrs,Pune,"manufacturing  ,  chemical engineering  ,  chemical engineer  ,  innovation  ,  team work  ,  process data  ,  process engineering",Posted few days ago
+75,Exxonmobil Company India Pvt Ltd,3 - 6 yrs,Malaysia,"information technology  ,  database  ,  object oriented programming  ,  pattern recognition  ,  python  ,  machine learning",Posted few days ago
+76,Prompt Softech,2 - 3 yrs,Ahmedabad,"algorithms  ,  python  ,  rdbms  ,  data mining  ,  bi  ,  machine learning  ,  sql  ,  hadoop  ,  technical skills",Posted few days ago
+77,IDP EDUCATION INDIA PVT LTD,1 - 2 yrs,"Gurgaon,  Chennai","mathematics  ,  english  ,  language teaching  ,  science  ,  ielts  ,  statistics",Posted few days ago
+78,Draup,5 - 8 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  machine learning  ,  pattern recognition",Posted few days ago
+79,pegasus knowledge solutions india pvt ltd.,8 - 10 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  sas  ,  sql",Posted few days ago
+80,Armaco Chemical Processes Systems Pvt Ltd,5 - 7 yrs,Jeddah,"algorithms  ,  css  ,  artificial intelligence  ,  sql  ,  database  ,  html  ,  api  ,  c#  ,  python  ,  machine learning  ,  javascript  ,  infrastructure",Posted few days ago
+81,Nielsen Research Ltd. Co.,2 - 3 yrs,Bengaluru / Bangalore,"git  ,  cloud computing  ,  python  ,  machine learning  ,  written communication  ,  production environment",Posted few days ago
+82,ai enterprise,5 - 8 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  apache",Posted few days ago
+83,DIASPARK INC,8 - 11 yrs,,"hive  ,  python  ,  problem solving  ,  machine learning  ,  sql  ,  hadoop",Posted few days ago
+84,verolt engineering private limited,2 - 3 yrs,Pune,"python  ,  cloud services  ,  team player  ,  sql  ,  docker  ,  git",Posted few days ago
+85,the modern dimension,2 - 5 yrs,"Delhi,  Delhi/NCR,  Bengaluru / Bangalore","Information Systems  ,   Computer Science  ,   Computer Engineering  ,  Software Engineering",Posted few days ago
+86,claim genius inc,7 - 8 yrs,Nagpur,"fundamentals  ,  algorithms  ,  software engineer  ,  software engineering  ,  data structures  ,  big data  ,  python  ,  algorithm development  ,  machine learning  ,  infrastructure",Posted few days ago
+87,nielsensports,2 - 3 yrs,,"dashboards  ,  sql  ,  database  ,  data science  ,  data scientist  ,  data visualization  ,  data analyst  ,  tableau",Posted few days ago
+88,True Influence,2 - 3 yrs,New York City,"algorithms  ,  hadoop  ,  big data  ,  python  ,  natural language processing  ,  machine learning",Posted 2 days ago
+89,ion trading india pvt. ltd.,2 - 3 yrs,,"bi  ,  big data  ,  python  ,  information retrieval  ,  problem solving  ,  team player  ,  machine learning",Posted few days ago
+90,jupitice justice technologies pvt. ltd.,7 - 8 yrs,Chandigarh,"image processing  ,  algorithms  ,  python  ,  natural language processing  ,  ece  ,  machine learning  ,  git",Posted few days ago
+91,axmiyan hr solutions private limited,5 - 8 yrs,Gurgaon,"reports  ,  data mining  ,  database design  ,  database  ,  procedures",Posted few days ago
+92,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Nepal,  Netherlands,  New Zealand,  Norway,  Pakistan","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+93,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,,"Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+94,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Malda,  Midnapur,  Raniganj,  Siliguri,  France","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations  ,  B2b And Sales","
+Work from Home 
+		    	"
+95,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Bhilai-Durg,  Bilaspur,  Anand,  Ankleshwar,  Bharuch","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations  ,  B2b And Sales","
+Work from Home 
+		    	"
+96,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Nizamabad,  Ongole,  Tezpur,  Tinsukia,  Patna","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+97,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,,"Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+98,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Mumbai,  Latur,  Lonavala,  Mahabaleshwar,  Nagpur","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+99,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Hissar,  Jhajjar,  Jind,  Kaithal,  Karnal","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice","
+Work from Home 
+		    	"
+100,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Ambala,  Bhiwani,  Gondia,  Hinganghat,  Kalyan","data entry  ,  typing speed  ,  computer operator  ,  work from home  ,  cce  ,  excutive  ,  non voice  ,  back office  ,  blended process  ,  Backend  ,  Banking  ,  Bank Reconciliation  ,  Accounts Payable","
+Work from Home 
+		    	"
+101,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Chandigarh,  Surat,  Ambala,  Bhiwani","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice","
+Work from Home 
+		    	"
+102,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Palakkad,  Thiruvananthapuram,  Thrissur,  Coimbatore,  Cuddalore","data entry  ,  typing speed  ,  computer operator  ,  work from home  ,  cce  ,  excutive  ,  non voice  ,  back office  ,  blended process  ,  Backend  ,  Banking  ,  Bank Reconciliation  ,  Accounts Payable","
+Work from Home 
+		    	"
+103,"Deepakshi Recruiters
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Bongaigaon,  Dhubri,  Dibrugarh","Data Entry  ,  Typing Speed  ,  computer operator  ,  Work From Home  ,  Back Office  ,  executive  ,  CCE  ,  Blended Process  ,  Non Voice  ,  Back-office Operations","
+Work from Home 
+		    	"
+104,arimon digilytics pvt ltd,3 - 6 yrs,Gurgaon,"data science  ,  data scientist  ,   Document Extraction",Posted few days ago
+105,rackspace technology,1 - 4 yrs,Cairo,"bi  ,  sql  ,  security  ,  data science  ,  data scientist  ,  data visualization  ,  logistic regression  ,  sas  ,  tableau",Posted 5 days ago
+106,pegasus knowledge solutions india pvt ltd.,5 - 8 yrs,Bengaluru / Bangalore,"data mining  ,  anova  ,  spss  ,  data science  ,  use cases  ,  data scientist  ,  arima  ,  data analytics  ,  sas  ,  written communication",Posted few days ago
+107,aeries technology group  ( sabre industries ),10 - 15 yrs,Mumbai,"visualization  ,  bi  ,  business solutions  ,  sql  ,  data science  ,  data scientist  ,  logistic regression  ,  rdbms  ,  oracle  ,  tableau",Posted few days ago
+108,sigmoid analutics,0 - 3 yrs,Bengaluru / Bangalore,"linear regression  ,  sql  ,  it management  ,  data science  ,  use cases  ,  data scientist  ,  logistic regression  ,  client interaction",Posted few days ago
+109,PAGO Analytics,0 - 1 yrs,Hyderabad/Secunderabad,"data mining  ,  data warehousing  ,  sql  ,  text analytics  ,  database  ,  data science  ,  data scientist  ,  debugging  ,  logistic regression  ,  cluster analysis  ,  sas  ,  infrastructure",Posted 1 day ago
+110,PAGO Analytics,0 - 1 yrs,Hyderabad/Secunderabad,"data mining  ,  data warehousing  ,  sql  ,  text analytics  ,  database  ,  data science  ,  data scientist  ,  debugging  ,  logistic regression  ,  cluster analysis  ,  sas  ,  infrastructure",Posted 2 days ago
+111,PAGO Analytics,0 - 1 yrs,Hyderabad/Secunderabad,"data mining  ,  data warehousing  ,  sql  ,  text analytics  ,  database  ,  data science  ,  data scientist  ,  debugging  ,  logistic regression  ,  cluster analysis  ,  sas  ,  infrastructure",Posted 3 days ago
+112,PAGO Analytics,0 - 1 yrs,Hyderabad/Secunderabad,"data mining  ,  data warehousing  ,  sql  ,  text analytics  ,  database  ,  data science  ,  data scientist  ,  debugging  ,  logistic regression  ,  cluster analysis  ,  sas  ,  infrastructure",Posted 4 days ago
+113,Ophthalmology Otolaryngology Community & Social Medicine,1 - 3 yrs,,"business solutions  ,  linear regression  ,  text analytics  ,  sql  ,  data science  ,  data scientist  ,  logistic regression  ,  data analytics  ,  predictive modeling",Posted few days ago
+114,dun and bradstreet india pvt ltd,5 - 9 yrs,,"logistic regression  ,  advanced analytics  ,  data analytics  ,  predictive modeling  ,  data mining  ,  business solutions  ,  linear regression  ,  sql  ,  solution design  ,  data scientist  ,  data analysis  ,  sas  ,  statistical analysis",Posted few days ago
+115,WALMART INDIA,4 - 6 yrs,,"manufacturing  ,  ideas  ,  planning  ,  industrial engineering  ,  innovation  ,  data collection  ,  cutting",Posted 3 days ago
+116,INMOBI TECHNOLOGY SERVICES PRIVATE LIMITED,10 - 13 yrs,,"artificial intelligence  ,  apache  ,  big data  ,  python  ,  algorithms  ,  cloud computing  ,  san  ,  rest  ,  mobile  ,  machine learning  ,  infrastructure",Posted 2 days ago
+117,Epsilon,4 - 7 yrs,Bengaluru / Bangalore,"big data  ,  python  ,  messaging  ,  dash  ,  algorithms  ,  scala  ,  data mining  ,  bi  ,  sql  ,  team player  ,  machine learning",Posted 5 days ago
+118,AxionConnect Infosolutions Pvt. Ltd.,5 - 8 yrs,"Varanasi / Banaras,  Mumbai","python  ,  sas  ,  data mining  ,  machine learning",Posted 6 days ago
+119,Outsourcebigdata,20 - 23 yrs,Bengaluru / Bangalore,"global delivery  ,  python  ,  data mining  ,  bi  ,  mobile  ,  machine learning  ,  application management  ,  technology consulting  ,  big data",Posted 6 days ago
+120,WALMART INDIA,7 - 10 yrs,,"information technology  ,  linear programming  ,  data structures  ,  python  ,  algorithms  ,  conference  ,  scala  ,  git  ,  machine learning",Posted 6 days ago
+121,ORMAE LLP,5 - 8 yrs,"Delhi,  Delhi/NCR","algorithms  ,  sql  ,  d3.js  ,  data structures  ,  mongodb  ,  genesys  ,  python  ,  machine learning",Posted few days ago
+122,INMOBI TECHNOLOGY SERVICES PRIVATE LIMITED,10 - 13 yrs,"Mumbai,  Delhi,  Delhi/NCR,  Bengaluru / Bangalore","artificial intelligence  ,  apache  ,  big data  ,  python  ,  algorithms  ,  cloud computing  ,  san  ,  rest  ,  mobile  ,  machine learning  ,  infrastructure",Posted few days ago
+123,PUBLICIS GROUPE,4 - 7 yrs,Bengaluru / Bangalore,"big data  ,  python  ,  messaging  ,  dash  ,  algorithms  ,  scala  ,  data mining  ,  bi  ,  sql  ,  team player  ,  machine learning",Posted few days ago
+124,Epsilon,4 - 7 yrs,Bengaluru / Bangalore,"big data  ,  python  ,  messaging  ,  dash  ,  algorithms  ,  scala  ,  data mining  ,  bi  ,  sql  ,  team player  ,  machine learning",Posted few days ago
+125,Careem,1 - 3 yrs,Jordan,"mysql  ,  big data  ,  python  ,  oracle  ,  hive  ,  algorithms  ,  data mining  ,  sql  ,  database  ,  hadoop  ,  problem solving  ,  machine learning  ,  written communication",Posted few days ago
+126,Careem,2 - 3 yrs,Cairo,"mysql  ,  big data  ,  python  ,  oracle  ,  hive  ,  algorithms  ,  data mining  ,  sql  ,  database  ,  hadoop  ,  problem solving  ,  machine learning  ,  written communication",Posted few days ago
+127,Careem,2 - 3 yrs,Pakistan,"mysql  ,  big data  ,  python  ,  oracle  ,  hive  ,  algorithms  ,  data mining  ,  sql  ,  database  ,  hadoop  ,  problem solving  ,  machine learning  ,  written communication",Posted few days ago
+128,AIR Worldwide,5 - 8 yrs,Hyderabad/Secunderabad,"html  ,  big data  ,  python  ,  nosql  ,  sql  ,  security  ,  hadoop  ,  mongodb  ,  hbase  ,  c  ,  natural language processing  ,  sas  ,  machine learning  ,  neo4j",Posted 5 days ago
+129,ORMAE LLP,3 - 10 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  machine learning  ,  sql  ,  d3.js  ,  data structures  ,  mongodb",Posted few days ago
+130,PUBLICIS GROUPE,4 - 7 yrs,Bengaluru / Bangalore,"big data  ,  python  ,  messaging  ,  dash  ,  algorithms  ,  scala  ,  data mining  ,  bi  ,  sql  ,  team player  ,  machine learning",Posted few days ago
+131,Sigmoid,5 - 8 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  team player  ,  machine learning  ,  data extraction  ,  java  ,  linux  ,  big data",Posted few days ago
+132,Getty Images,0 - 1 yrs,New York City,"leave  ,  workforce  ,  communication  ,  health benefits  ,  stress management  ,  learning  ,  communication skills  ,  compensation  ,  attendance",Posted 2 days ago
+133,WALMART INDIA,6 - 9 yrs,,"algorithms  ,  information technology  ,  scala  ,  sql  ,  python  ,  machine learning",Posted 1 day ago
+134,ArisGlobal LLC,8 - 11 yrs,Bengaluru / Bangalore,"drug safety  ,  regulatory  ,  gcp  ,  life sciences  ,  clinical trials",Posted 4 days ago
+135,WALMART INDIA,6 - 9 yrs,,"information technology  ,  big data  ,  python  ,  scala  ,  hadoop  ,  machine learning",Posted few days ago
+136,Innoplexus Consulting Services Private Limited,10 - 13 yrs,Pune,"algorithms  ,  artificial intelligence  ,  image processing  ,  python  ,  natural language processing  ,  machine learning",Posted 3 days ago
+137,RED HAT,3 - 6 yrs,Bengaluru / Bangalore,"algorithms  ,  software engineering  ,  technical skills  ,  python  ,  natural language processing  ,  machine learning  ,  cassandra",Posted 2 days ago
+138,Epsilon,8 - 10 yrs,Bengaluru / Bangalore,"algorithms  ,  sql  ,  distributed databases  ,  hadoop  ,  python  ,  problem solving  ,  machine learning  ,  messaging",Posted 5 days ago
+139,netomi  ( msgai labs ),2 - 5 yrs,Gurgaon,"algorithms  ,  artificial intelligence  ,  hadoop  ,  big data  ,  python  ,  information retrieval  ,  machine learning",Posted few days ago
+140,netomi  ( msgai labs ),3 - 6 yrs,Canada,"algorithms  ,  artificial intelligence  ,  hadoop  ,  python  ,  information retrieval  ,  machine learning",Posted 4 days ago
+141,WALMART INDIA,3 - 6 yrs,,"algorithms  ,  information technology  ,  sql  ,  python  ,  cloud services  ,  machine learning  ,  infrastructure",Posted 1 day ago
+142,sigmoid analutics,1 - 3 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  informationtechnology  ,  team player  ,  machine learning  ,  data extraction  ,  java  ,  linux  ,  big data",Posted few days ago
+143,Clarivate Analytics,5 - 8 yrs,,"algorithms  ,  security  ,  data extraction  ,  java  ,  python  ,  natural language processing  ,  machine learning",Posted few days ago
+144,recooty,2 - 3 yrs,Thailand,"algorithms  ,  data mining  ,  sql  ,  python  ,  github  ,  machine learning  ,  infrastructure",Posted few days ago
+145,gartner india research and advisory services,2 - 4 yrs,Gurgaon,"python  ,  machine learning  ,   NLP techniques",Posted 2 days ago
+146,m / s simplex infrastructures ltd,4 - 6 yrs,Bengaluru / Bangalore,"algorithms  ,  ds  ,  sql  ,  big data  ,  python  ,  machine learning",Posted few days ago
+147,IRT Computer Solutions  ( I )  Pvt Ltd,5 - 8 yrs,"Hyderabad/Secunderabad,  Chennai","hive  ,  python  ,  c    ,  machine learning  ,  sql  ,  database  ,  java  ,  mapreduce  ,  mysql  ,  hadoop",Posted few days ago
+148,crescendo global,8 - 12 yrs,"Gurgaon,  Mumbai,  Pune","algorithms  ,  problem solving  ,  mining  ,  machine learning",Posted 3 days ago
+149,Innoplexus Consulting Services Private Limited,2 - 5 yrs,Pune,"algorithms  ,  artificial intelligence  ,  hci  ,  image processing  ,  python  ,  machine learning",Posted 3 days ago
+150,PatientMD,3 - 6 yrs,Kolkata,"algorithms  ,  python  ,  scala  ,  data mining  ,  machine learning  ,  java  ,  software engineer  ,  big data",Posted few days ago
+151,winzone technology pvt ltd,0 - 3 yrs,Delhi,"image processing  ,  python  ,  c  ,  sql  ,  written communication  ,  games  ,  big data",Posted few days ago
+152,TERADATA INDIA PVT LTD,5 - 8 yrs,,"algorithms  ,  bi  ,  sql  ,  d3.js  ,  database management  ,  cloud computing  ,  san  ,  python  ,  machine learning",Posted few days ago
+153,Clarivate Analytics,5 - 8 yrs,Canada,"algorithms  ,  security  ,  data extraction  ,  java  ,  python  ,  natural language processing  ,  director  ,  information retrieval  ,  machine learning",Posted few days ago
+154,WALMART INDIA,4 - 7 yrs,,"algorithms  ,  information technology  ,  scala  ,  sql  ,  python  ,  machine learning",Posted few days ago
+155,Ideapoke,3 - 4 yrs,Bengaluru / Bangalore,"algorithms  ,  artificial intelligence  ,  sql  ,  data extraction  ,  big data  ,  python  ,  natural language processing  ,  team player  ,  machine learning  ,  nosql",Posted few days ago
+156,Fanatics Inc.,6 - 9 yrs,Los Angeles,"python  ,  nosql  ,  algorithms  ,  data mining  ,  sql  ,  database  ,  security  ,  cloud computing  ,  machine learning  ,  written communication",Posted few days ago
+157,brandmuscle india pvt ltd,2 - 5 yrs,Bengaluru / Bangalore,"hive  ,  algorithms  ,  data mining  ,  sql  ,  pig  ,  mongodb  ,  hbase  ,  simulation models  ,  python  ,  machine learning  ,  nosql  ,  cassandra",Posted few days ago
+158,dun and bradstreet india pvt ltd,3 - 6 yrs,,"python  ,  algorithms  ,  scala  ,  sql  ,  machine learning",Posted 6 days ago
+159,WALMART INDIA,3 - 6 yrs,,"algorithms  ,  information technology  ,  artificial intelligence  ,  python  ,  machine learning",Posted 6 days ago
+160,Veeva Systems,8 - 11 yrs,Germany,"algorithms  ,  conference  ,  java  ,  devops  ,  mongodb  ,  san  ,  python  ,  team player  ,  machine learning  ,  nosql  ,  infrastructure  ,  leadership skills  ,  forms",Posted few days ago
+161,Veeva Systems,8 - 11 yrs,Netherlands,"algorithms  ,  conference  ,  java  ,  devops  ,  mongodb  ,  san  ,  python  ,  team player  ,  machine learning  ,  nosql  ,  infrastructure  ,  leadership skills  ,  forms",Posted few days ago
+162,Quantium Analytics,4 - 7 yrs,Hyderabad/Secunderabad,"artificial intelligence  ,  sql  ,  git  ,  api  ,  python  ,  cloud storage",Posted few days ago
+163,Tridiagonal Solutions Pvt. Ltd.,0 - 3 yrs,Pune,"manufacturing  ,  chemical engineering  ,  chemical engineer  ,  innovation  ,  team work  ,  process data  ,  process engineering",Posted few days ago
+164,Armaco Chemical Processes Systems Pvt Ltd,5 - 7 yrs,Singapore,"algorithms  ,  c    ,  linear programming  ,  artificial intelligence  ,  database  ,  java  ,  python  ,  infrastructure",Posted few days ago
+165,quicken software development pvt ltd,6 - 9 yrs,,"leave  ,  compensation  ,  personal management  ,  health benefits",Posted few days ago
+166,WALMART INDIA,7 - 10 yrs,,"information technology  ,  python  ,  algorithms  ,  conference  ,  scala  ,  sql  ,  machine learning",Posted few days ago
+167,netradyne,2 - 3 yrs,Bengaluru / Bangalore,"program management  ,  artificial intelligence  ,  sql  ,  security  ,  mongodb  ,  python  ,  c  ,  machine learning",Posted few days ago
+168,dun and bradstreet india pvt ltd,3 - 6 yrs,Chennai,"algorithms  ,  scala  ,  sql  ,  python  ,  machine learning",Posted few days ago
+169,AUGRAY PRIVATE LIMITED,1 - 4 yrs,,"algorithms  ,  augmented reality  ,  sql  ,  git  ,  python  ,  machine learning",Posted few days ago
+170,Netxcell Ltd,4 - 7 yrs,Vijayawada,"websphere  ,  oracle  ,  computer application  ,  ms access  ,  vb  ,  sql  ,  java  ,  linux  ,  j2ee  ,  .net  ,  php  ,  mysql",Posted few days ago
+171,Exxon Mobil Corporation,10 - 13 yrs,Bengaluru / Bangalore,"devops  ,  software engineering  ,  python  ,  ensemble  ,  security  ,  database  ,  software engineer  ,  machine learning",Posted few days ago
+172,torcai digital media private limited,2 - 5 yrs,Dehradun,"algorithms  ,  awk  ,  linux  ,  shell scripting",Posted few days ago
+173,dun and bradstreet india pvt ltd,3 - 6 yrs,,"python  ,  algorithms  ,  scala  ,  sql  ,  machine learning",Posted few days ago
+174,Exxon Mobil Corporation,3 - 6 yrs,Bengaluru / Bangalore,"c    ,  object oriented programming  ,  python  ,  software testing  ,  fundamentals  ,  security  ,  pattern recognition  ,  c  ,  machine learning",Posted few days ago
+175,NLP People,5 - 8 yrs,Chennai,"fundamentals  ,  algorithms  ,  information technology  ,  sql  ,  apache  ,  bigdata  ,  python  ,  machine learning  ,  written communication",Posted few days ago
+176,ConcertAI,2 - 5 yrs,Bengaluru / Bangalore,"algorithms  ,  business rules  ,  sql  ,  github",Posted few days ago
+177,Exxonmobil Company India Pvt Ltd,3 - 6 yrs,Thailand,"information technology  ,  artificial intelligence  ,  salesforce  ,  python  ,  bi  ,  database  ,  security  ,  pattern recognition  ,  problem solving  ,  machine learning",Posted few days ago
+178,PUBLICIS GROUPE,8 - 10 yrs,,"algorithms  ,  sql  ,  distributed databases  ,  hadoop  ,  python  ,  problem solving  ,  machine learning  ,  messaging",Posted few days ago
+179,algoanalytics pune,3 - 6 yrs,Pune,"algorithms  ,  python  ,  natural language processing  ,  machine learning  ,  written communication",Posted few days ago
+180,Veeva Systems,4 - 7 yrs,Germany,"artificial intelligence  ,  devops  ,  python  ,  nosql  ,  algorithms  ,  docker  ,  mongodb  ,  san  ,  natural language processing  ,  team player  ,  machine learning  ,  infrastructure  ,  leadership skills  ,  forms",Posted few days ago
+181,Veeva Systems,4 - 7 yrs,Netherlands,"artificial intelligence  ,  devops  ,  python  ,  nosql  ,  algorithms  ,  docker  ,  mongodb  ,  san  ,  natural language processing  ,  team player  ,  machine learning  ,  infrastructure  ,  leadership skills  ,  forms",Posted few days ago
+182,ORMAE LLP,2 - 10 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  machine learning  ,  sql  ,  d3.js  ,  mongodb",Posted few days ago
+183,"Augustin Xavier
+     (More Jobs)",1 - 5 yrs,"Surendranagar,  Ranchi,  Calicut/ Kozhikode,  Cochin/ Kochi/ Ernakulam,  Kannur",Engineering Construction,Posted a month ago
+184,arimon digilytics pvt ltd,1 - 3 yrs,Gurgaon,"data science  ,  analyst  ,  data scientist",Posted few days ago
+185,Clarivate Analytics,3 - 6 yrs,,"dashboards  ,  sql  ,  security  ,  data science  ,  use cases  ,  data scientist  ,  data analysis  ,  sas  ,  business analytics  ,  ehr",Posted 3 days ago
+186,"SAMPOORNA CONSULTANTS PVT LTD
+     (More Jobs)",10 - 15 yrs,Mumbai,"Data Scientist  ,  Python  ,  SQL  ,  ML",Posted a month ago
+187,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Scientist  ,  communication  ,  mapping  ,  compensation",Posted 5 days ago
+188,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Scientist  ,  communication  ,  mapping  ,  compensation",Posted few days ago
+189,US Pharmacopeia,5 - 8 yrs,Hyderabad/Secunderabad,"visualization  ,  information technology  ,  bi  ,  sql  ,  data extraction  ,  data science  ,  xml  ,  data scientist  ,  information systems management  ,  it project management  ,  data visualization  ,  advanced analytics  ,  data analysis  ,  data analytics  ,  alteryx  ,  tableau  ,  predictive modeling  ,  project delivery",Posted 6 days ago
+190,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Science  ,  communication  ,  mapping  ,  compensation",Posted 5 days ago
+191,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Science  ,  communication  ,  mapping  ,  compensation",Posted 5 days ago
+192,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Science  ,  communication  ,  mapping  ,  compensation",Posted 5 days ago
+193,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  Data Science  ,  communication  ,  mapping  ,  compensation",Posted 5 days ago
+194,Qatargas Operating Co Ltd,8 - 11 yrs,Doha,"hive  ,  algorithms  ,  information technology  ,  data mining  ,  artificial intelligence  ,  sql  ,  pig  ,  mongodb  ,  hbase  ,  machine learning  ,  nosql  ,  cassandra",Posted few days ago
+195,WALMART INDIA,3 - 5 yrs,,"workforce planning  ,  Data Science  ,  communication  ,  compensation",Posted few days ago
+196,Innoplexus Consulting Services Private Limited,3 - 5 yrs,Pune,"molecular biology  ,  computational biology  ,  research  ,  genomics  ,  life sciences  ,  clinical trials  ,  cro  ,  proteomics  ,  bioinformatics  ,  pharmacy  ,  pharma",Posted 3 days ago
+197,WALMART INDIA,8 - 11 yrs,,"information technology  ,  data structures  ,  python  ,  algorithms  ,  conference  ,  scala  ,  git  ,  machine learning",Posted few days ago
+198,Getty Images,5 - 8 yrs,Canada,"python  ,  hive  ,  algorithms  ,  sql  ,  machine learning  ,  forms",Posted few days ago
+199,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  leave  ,  communication  ,  mapping  ,  compensation",Posted few days ago
+200,grazitti interactive,6 - 9 yrs,Mohali,"artificial intelligence  ,  sql  ,  python  ,  machine learning",Posted few days ago
+201,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  leave  ,  communication  ,  mapping  ,  compensation",Posted few days ago
+202,WALMART INDIA,6 - 9 yrs,,"interpersonal skills  ,  leave  ,  communication  ,  mapping  ,  compensation",Posted few days ago
+203,WALMART INDIA,4 - 7 yrs,,"algorithms  ,  information technology  ,  scala  ,  artificial intelligence  ,  sql  ,  simulation models  ,  python  ,  director  ,  machine learning",Posted few days ago
+204,"HR Jobs Placements
+     (More Jobs)",5 - 10 yrs,"Hyderabad/Secunderabad,  Kolkata,  Mumbai,  Noida/Greater Noida,  Pune","data scientist  ,  data science  ,  senior data scientist  ,  java  ,  r  ,  nlp  ,  Data Modeling  ,  ExtJS  ,  Spark  ,  Python",Posted few days ago
+205,"HR Jobs Placements
+     (More Jobs)",5 - 10 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Chennai,  Delhi,  Gurgaon","data scientist  ,  data science  ,  senior data scientist  ,  java  ,  r  ,  nlp  ,  Data Modeling  ,  ExtJS  ,  Spark  ,  Python",Posted a month ago
+206,Armaco Chemical Processes Systems Pvt Ltd,8 - 11 yrs,Jeddah,"bi  ,  artificial intelligence  ,  sql  ,  security  ,  java  ,  apache  ,  software engineering  ,  shell scripting  ,  hadoop  ,  python  ,  machine learning  ,  javascript  ,  infrastructure",Posted few days ago
+207,Acuity Knowledge Partners,0 - 3 yrs,Bengaluru / Bangalore,"algorithms  ,  data mining  ,  data extraction  ,  mongodb  ,  python  ,  problem solving  ,  nosql  ,  cassandra  ,  infrastructure",Posted few days ago
+208,Paytm,3 - 6 yrs,Noida/Greater Noida,"emr  ,  storage  ,  sql  ,  brewing  ,  data science  ,  use cases  ,  data scientist  ,  data analysis  ,  statistical analysis",Posted 5 days ago
+209,Clarivate Analytics,5 - 8 yrs,,"dashboards  ,  sql  ,  security  ,  data science  ,  use cases  ,  data scientist  ,  advanced analytics  ,  data analysis  ,  sas  ,  business analytics  ,  ehr",Posted 3 days ago
+210,Times World Information Technology,8 - 10 yrs,Dubai,"visualization  ,  bi  ,  regression analysis  ,  sql  ,  database  ,  data scientist  ,  data visualization  ,  data analytics  ,  data analysis  ,  sas  ,  tableau",Posted few days ago
+211,crescendo global,3 - 6 yrs,Gurgaon,"algorithms  ,  data mining  ,  ensemble  ,  sql  ,  data structures  ,  python  ,  c",Posted few days ago
+212,crescendo global,5 - 8 yrs,Gurgaon,"image processing  ,  python  ,  c  ,  data mining  ,  machine learning  ,  sql  ,  ds",Posted 3 days ago
+213,WALMART INDIA,7 - 10 yrs,,"information technology  ,  data structures  ,  python  ,  algorithms  ,  conference  ,  scala  ,  git  ,  machine learning",Posted 6 days ago
+214,WALMART INDIA,6 - 9 yrs,,"algorithms  ,  information technology  ,  scala  ,  artificial intelligence  ,  big data  ,  python  ,  machine learning",Posted 6 days ago
+215,ConcertAI,2 - 5 yrs,,"artificial intelligence  ,  ds  ,  big data  ,  technical skills  ,  python  ,  director  ,  machine learning",Posted few days ago
+216,WALMART INDIA,6 - 9 yrs,,"information technology  ,  artificial intelligence  ,  python  ,  director  ,  algorithms  ,  scala  ,  data mining  ,  sql  ,  simulation models  ,  machine learning",Posted few days ago
+217,WALMART INDIA,6 - 9 yrs,,"information technology  ,  artificial intelligence  ,  python  ,  director  ,  algorithms  ,  scala  ,  data mining  ,  sql  ,  simulation models  ,  machine learning",Posted few days ago
+218,"FLARIAL SERVICES LLP
+     (More Jobs)",5 - 10 yrs,"Canada,  null","IT Skills  ,  Java  ,  Python  ,  Software development",Posted a month ago
+219,Microsoft India Pvt Ltd,5 - 8 yrs,Hyderabad/Secunderabad,"program management  ,  software engineering  ,  big data  ,  python  ,  fundamentals  ,  hive  ,  bi  ,  sql  ,  machine learning  ,  infrastructure",Posted a month ago
+220,Microsoft India Pvt Ltd,5 - 8 yrs,Hyderabad/Secunderabad,"program management  ,  software engineering  ,  big data  ,  python  ,  fundamentals  ,  hive  ,  bi  ,  sql  ,  machine learning  ,  infrastructure",Posted a month ago
+221,SAP Ariba,5 - 8 yrs,"Gurgaon,  Mumbai,  Pune,  Bengaluru / Bangalore","orchestration  ,  artificial intelligence  ,  c     ,  java  ,  sap bw  ,  software packages  ,  python  ,  adapters  ,  abap  ,  data warehousing  ,  docker  ,  system administration  ,  database  ,  sas  ,  team player  ,  machine learning  ,  consultant",Posted few days ago
+222,Paytm,4 - 6 yrs,Noida/Greater Noida,"algorithms  ,  scala  ,  brewing  ,  java  ,  data structures  ,  python  ,  machine learning",Posted few days ago
+223,Armaco Chemical Processes Systems Pvt Ltd,5 - 8 yrs,Jeddah,"algorithms  ,  artificial intelligence  ,  python  ,  information retrieval  ,  machine learning  ,  infrastructure",Posted few days ago
+224,suntec india,5 - 8 yrs,Delhi,"algorithms  ,  artificial intelligence  ,  data structures  ,  python  ,  machine learning  ,  eclipse",Posted few days ago
+225,Fiserv India Pvt Ltd,10 - 13 yrs,Thane,"reporting  ,  excel  ,  expenses  ,   knowledge of statistical",Posted few days ago
+226,fiserv ce pvt ltd,10 - 13 yrs,Thane,"reporting  ,  excel  ,  expenses  ,   build models",Posted few days ago
+227,AugmatrixGo,5 - 8 yrs,"Hyderabad/Secunderabad,  Pune","dashboards  ,  sql  ,  tableau  ,  data scientist  ,  data visualization",Posted few days ago
+228,COGNITER TECHNOLOGIES,3 - 6 yrs,Bengaluru / Bangalore,"data mining  ,  ensemble  ,  data science  ,  data scientist  ,  data visualization",Posted 6 days ago
+229,Stockholdings,5 - 8 yrs,"Navi Mumbai,  Mumbai","dashboards  ,  data science  ,  data scientist  ,  crm  ,  data analytics  ,  mobile",Posted few days ago
+230,BOSTON SCIENTIFIC,0 - 5 yrs,,"visualization  ,  dashboards  ,  data analytics  ,  alteryx  ,  vba  ,  sql  ,  database  ,  data scientist  ,  data analysis  ,  consulting  ,  business analytics  ,  data analyst  ,  tableau  ,  infrastructure  ,  analyst",Posted 6 days ago
+231,valens datalabs,1 - 3 yrs,Ahmedabad,"python  ,  scala  ,  nosql  ,  java  ,  cassandra  ,  object oriented programming  ,  hadoop  ,  big data  ,  mongodb  ,  hbase",Posted few days ago
+232,eurofins it solutions pvt ltd,1 - 2 yrs,Bengaluru / Bangalore,"cro  ,  clinical diagnostics  ,  scientist  ,  clinical  ,  pharmacology  ,  bioinformatics  ,  genomics  ,  life sciences",Posted few days ago
+233,eurofins it solutions pvt ltd,1 - 2 yrs,Bengaluru / Bangalore,"cro  ,  clinical diagnostics  ,  rna  ,  scientist  ,  clinical  ,  pharmacology  ,  bioinformatics  ,  genomics  ,  primer designing  ,  life sciences  ,  ngs",Posted few days ago
+234,BOSTON SCIENTIFIC,1 - 2 yrs,,"production  ,  supervision  ,  process development  ,  documentation  ,  process improvement",Posted 1 day ago
+235,criyagen agri and biotech pvt ltd,0 - 3 yrs,Bengaluru / Bangalore,"Technical Guidance  ,  Crop Advisers  ,  Converting of customers",Posted few days ago
+236,BOSTON SCIENTIFIC,1 - 2 yrs,,"production  ,  supervision  ,  process development  ,  documentation  ,  process improvement",Posted few days ago
+237,zf india pvt ltd,0 - 3 yrs,Chennai,"visualization  ,  information technology  ,  data mining  ,  bi  ,  dashboards  ,  sql  ,  data science  ,  data scientist  ,  predictive analysis  ,  tableau",Posted 6 days ago
+238,statxo analytics,4 - 6 yrs,"Gurgaon,  Bengaluru / Bangalore","arima  ,  advanced analytics  ,  visualization  ,  business requirements  ,  spotfire  ,  sql  ,  tableau  ,  advanced excel  ,  ms office suite  ,  data scientist",Posted few days ago
+239,Iqvia,3 - 5 yrs,Bengaluru / Bangalore,"regulatory requirements  ,  ich  ,  validation  ,  clinical lab  ,  laboratory equipment  ,  glp  ,  clinical  ,  clinical research  ,  data management  ,  scientist  ,  regulatory  ,  sas programming",Posted 4 days ago
+240,Allstate India,7 - 10 yrs,Pune,"computer programming  ,  sql  ,  data science  ,  data scientist  ,  text mining  ,  data visualization  ,  data analysis  ,  oracle  ,  predictive analytics  ,  tableau  ,  predictive modeling  ,  business objects  ,  project delivery  ,  unix",Posted few days ago
+241,AMAZON INDIA PVT LTD,3 - 6 yrs,Bengaluru / Bangalore,"business analyst  ,  dashboards  ,  sql  ,  data scientist  ,  data visualization  ,  statistical analyst  ,  business analysis  ,  data analyst  ,  tableau  ,  statistical analysis",Posted few days ago
+242,lastminute.com group,3 - 6 yrs,Switzerland,"algorithms  ,  sql  ,  git  ,  big data  ,  python  ,  github  ,  machine learning",Posted few days ago
+243,"Sarosh Karki
+     (More Jobs)",20 - 25 yrs,"Ahmedabad,  Chennai,  Gurgaon,  Hyderabad/Secunderabad,  Kolkata","Clinical Research Marketing  ,  Clinical Statistics  ,  Oracle Clinical  ,  Clinical Data Management  ,  Clinical Research  ,  Clinical Trial  ,  Pharmacovigilance",Posted few days ago
+244,US Pharmacopeia,7 - 10 yrs,Hyderabad/Secunderabad,"molecular biology  ,  scientist  ,  research  ,  rt-pcr  ,  dna  ,  gel electrophoresis  ,  pcr  ,  validation  ,  chemistry  ,  biologics  ,  rna  ,  technology transfer  ,  glp  ,  elisa  ,  assay  ,  biochemistry  ,  method development",Posted few days ago
+245,US Pharmacopeia,10 - 13 yrs,Hyderabad/Secunderabad,"pharmaceutical industry  ,  scientist  ,  regulatory  ,  laboratory work  ,  analytical chemistry  ,  hplc  ,  ich  ,  validation  ,  chemistry  ,  bioanalytical  ,  material characterization  ,  biological sciences  ,  elisa  ,  biochemistry  ,  method development",Posted few days ago
+246,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Jeddah,"hydrogen  ,  safety  ,  instrumentation  ,  technology development  ,  process development  ,  mechanical engineering  ,  process design  ,  problem solving  ,  process flow  ,  planning  ,  plastic",Posted 3 days ago
+247,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Singapore,"talent development  ,  workforce  ,  field work  ,  communication skills",Posted few days ago
+248,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Singapore,"swimming  ,  english  ,  history",Posted few days ago
+249,ConcertAI,5 - 8 yrs,,"bi  ,  database  ,  business environment  ,  written communication",Posted few days ago
+250,Colgate-Palmolive  ( India ),5 - 8 yrs,Mumbai,"ajax  ,  spring  ,  soap",Posted few days ago
+251,US Pharmacopeia,5 - 7 yrs,Hyderabad/Secunderabad,"learning  ,  hr  ,  recruitment  ,  communication skills  ,  ir",Posted few days ago
+252,US Pharmacopeia,5 - 7 yrs,Hyderabad/Secunderabad,"hr  ,  recruitment  ,  ir  ,  learning  ,  communication skills",Posted few days ago
+253,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Jeddah,"production  ,  co2  ,  hydrogen  ,  instruments  ,  technology development  ,  chemical engineering  ,  natural gas  ,  planning",Posted few days ago
+254,"Sarosh Karki
+     (More Jobs)",15 - 20 yrs,"Bengaluru / Bangalore,  Chennai,  Gurgaon,  Hyderabad/Secunderabad,  Kolkata","Clinical Laboratory Scientist  ,  Chemistry  ,  Organic Chemistry  ,  Chromatography  ,  Electrophoresis  ,  Biotechnology  ,  Molecular Biology  ,  Microbiology  ,  Biochemistry  ,  Immunology",Posted few days ago
+255,GoVivace Inc.,2 - 3 yrs,Noida/Greater Noida,"algorithms  ,  cuda  ,  c    ,  artificial intelligence  ,  testing tools  ,  shell scripting  ,  perl  ,  technical skills  ,  python  ,  github  ,  natural language processing  ,  ivr  ,  machine learning",Posted a month ago
+256,"Vasantdada Sugar Institute
+     (More Jobs)",1 - 4 yrs,Pune,"Alcohol  ,  Biogas  ,  Research  ,  Hydrogen  ,  Ethanol",Posted few days ago
+257,Armaco Chemical Processes Systems Pvt Ltd,0 - 3 yrs,Jeddah,"Life Cycle Analysis  ,  data analysis  ,  Matlab  ,   Python",Posted 6 days ago
+258,US Pharmacopeia,5 - 8 yrs,Hyderabad/Secunderabad,"production  ,  manufacturing  ,  process development  ,  planning",Posted 4 days ago
+259,US Pharmacopeia,10 - 13 yrs,Hyderabad/Secunderabad,"analytical chemistry  ,  hplc  ,  pcr  ,  chemistry  ,  biologics  ,  material characterization  ,  biological sciences  ,  elisa  ,  biochemistry  ,  method development",Posted few days ago
+260,NLP People,0 - 3 yrs,Delhi,"algorithms  ,  artificial intelligence  ,  hci  ,  html  ,  data structures  ,  perl  ,  image processing  ,  python  ,  natural language processing  ,  artificialintelligence  ,  machine learning  ,  artificial neural networks  ,  human computer interaction  ,  artificialneural networks",Posted few days ago
+261,Jeevan Scientific Technology Limited,5 - 10 yrs,Hyderabad/Secunderabad,"chemistry  ,  method validation  ,  scientist  ,  regulatory  ,  laboratory equipment  ,  glp  ,  bioanalytical  ,  research  ,  senior research associate  ,  biochemistry  ,  method development  ,  validation",Posted few days ago
+262,indiabioscience,0 - 3 yrs,Sonepat,"computational biology  ,  chemistry  ,  molecular biology  ,  biology  ,  researcher  ,  scientist  ,  research  ,  genetics  ,  microscopy  ,  cloning",Posted few days ago
+263,Armaco Chemical Processes Systems Pvt Ltd,10 - 13 yrs,Jeddah,"reports  ,  procedures  ,  mentoring  ,  consultant  ,  infrastructure",Posted few days ago
+264,Armaco Chemical Processes Systems Pvt Ltd,5 - 10 yrs,Jeddah,"prototyping  ,  production  ,  arc  ,  water treatment  ,  product development  ,  technology development  ,  chemical engineering  ,  planning  ,  senior engineer  ,  productivity enhancement  ,  production technology",Posted few days ago
+265,Armaco Chemical Processes Systems Pvt Ltd,10 - 13 yrs,Jeddah,"iso  ,  preventive maintenance  ,  instruments  ,  calibration  ,  grease  ,  ppe  ,  implementation  ,  ideas  ,  maintenance",Posted few days ago
+266,BOSTON SCIENTIFIC,2 - 5 yrs,,"healthcare  ,  mri  ,  health  ,  medicine  ,  medical technologist  ,  ct  ,  medical imaging",Posted few days ago
+267,imperial life sciences pvt. limited,0 - 3 yrs,Mumbai,"scientist  ,  elisa  ,  cell biology",Posted few days ago
+268,BOSTON SCIENTIFIC,6 - 9 yrs,,"scientist  ,  regulatory  ,  laboratory work  ,  analytical chemistry  ,  research  ,  research scientist  ,  chemistry  ,  polymer science  ,  material characterization",Posted few days ago
+269,niramai health analytix pvt ltd,7 - 15 yrs,Bengaluru / Bangalore,"scientist  ,  regulatory  ,  research  ,  incubator  ,  pharmacology  ,  clinical trials  ,  clinical operations  ,  biostatistics  ,  biology  ,  clinical  ,  clinical research  ,  pharmacy  ,  pharma",Posted few days ago
+270,imperial life sciences pvt. limited,4 - 5 yrs,Mumbai,"molecular biology  ,  scientist  ,  genetics  ,  genomics  ,  ngs",Posted few days ago
+271,US Pharmacopeia,10 - 12 yrs,Hyderabad/Secunderabad,"sds  ,  scientist  ,  electrophoresis  ,  hplc  ,  spectroscopy  ,  chromatography  ,  mass spectrometry  ,  chemistry  ,  biologics  ,  uplc  ,  biological sciences  ,  laboratory skills  ,  protein assays",Posted few days ago
+272,Corning,1 - 3 yrs,Pune,"c    ,  python  ,  c  ,  unix  ,   changing technologies",Posted 3 days ago
+273,H.B. Fuller,5 - 8 yrs,Mumbai,"iso  ,  production  ,  product development  ,  manufacturing  ,  polyurethane  ,  operational excellence  ,  5s  ,  chemical engineering  ,  innovation  ,  planning  ,  machinery",Posted 3 days ago
+274,US Pharmacopeia,4 - 6 yrs,Hyderabad/Secunderabad,"sds  ,  electrophoresis  ,  hplc  ,  chromatography  ,  mass spectrometry  ,  chemistry  ,  biologics  ,  uplc  ,  biological sciences  ,  laboratory skills  ,  protein assays",Posted few days ago
+275,US Pharmacopeia,2 - 5 yrs,Hyderabad/Secunderabad,"iso 17025  ,  spectrometer  ,  organic chemistry  ,  iso 9001  ,  chemistry  ,  iec 17025  ,  glassware  ,  laboratory testing",Posted few days ago
+276,genelon institute of life sciences pvt ltd,5 - 8 yrs,"Mysoru / Mysore,  Bengaluru / Bangalore","teaching  ,  principal  ,  Biology",Posted few days ago
+277,BOSTON SCIENTIFIC,10 - 13 yrs,,"technical expert  ,  iso  ,  material selection  ,  new product development  ,  manufacturing  ,  engineering support  ,  process development  ,  implementation  ,  material science  ,  product design  ,  process control  ,  lean manufacturing",Posted few days ago
+278,Armaco Chemical Processes Systems Pvt Ltd,10 - 13 yrs,Jeddah,"astm  ,  lims  ,  qa  /  qc  ,  icp  ,  gc  ,  chemistry  ,  quality control  ,  lab management  ,  aramco  ,  quality assurance  ,  laboratory analysis  ,  statistical quality control",Posted few days ago
+279,ORMAE LLP,2 - 10 yrs,Bengaluru / Bangalore,"algorithms  ,  c    ,  java  ,  c#  ,  python  ,  sas",Posted few days ago
+280,US Pharmacopeia,5 - 7 yrs,Hyderabad/Secunderabad,"ftir  ,  hplc  ,  qa  ,  organic chemistry  ,  icp  ,  gc  ,  chemistry  ,  wet  ,  glp",Posted few days ago
+281,bkc weathersys private limited,1 - 3 yrs,Noida/Greater Noida,"database management  ,  software engineer  ,  machine learning  ,  artificial intelligence",Posted few days ago
+282,SPECTROCHEM INSTRUMENTS PVT LTD,2 - 5 yrs,Mumbai,"chemistry  ,  melting point  ,  quality control  ,  ftir  ,  wet  ,  kf  ,  gc  ,  hplc",Posted few days ago
+283,SPECTROCHEM INSTRUMENTS PVT LTD,2 - 5 yrs,Mumbai,"production  ,  implementation  ,  iso system  ,  dq  ,  sop  ,  scheduling  ,  calibration",Posted few days ago
+284,litmus7 systems consulting private limited,1 - 3 yrs,Cochin/ Kochi/ Ernakulam,"python  ,  orchestration  ,  sql",Posted few days ago
+285,Alstom Projects India Ltd.,10 - 13 yrs,Bengaluru / Bangalore,"orchestration  ,  scala  ,  storage  ,  docker  ,  security  ,  database  ,  apache  ,  postgresql  ,  python  ,  machine learning  ,  nosql  ,  cassandra  ,  infrastructure  ,  pathway",Posted 3 days ago
+286,TERADATA INDIA PVT LTD,0 - 3 yrs,Australia,"c    ,  java  ,  big data  ,  python  ,  oracle  ,  nosql  ,  cassandra  ,  unix  ,  hive  ,  algorithms  ,  scala  ,  sql  ,  postgresql  ,  linux  ,  hadoop  ,  technical skills  ,  ruby  ,  consultant  ,  project delivery  ,  php",Posted 1 day ago
+287,TERADATA INDIA PVT LTD,0 - 3 yrs,Australia,"c    ,  java  ,  big data  ,  python  ,  oracle  ,  nosql  ,  cassandra  ,  unix  ,  hive  ,  algorithms  ,  scala  ,  sql  ,  postgresql  ,  linux  ,  hadoop  ,  technical skills  ,  ruby  ,  consultant  ,  project delivery  ,  php",Posted 1 day ago
+288,CRIMSON INTERACTIVE PVT LTD,0 - 2 yrs,Mumbai,"algorithms  ,  c    ,  lucene  ,  artificial intelligence  ,  docker  ,  java  ,  mysql  ,  hadoop  ,  big data  ,  mongodb  ,  python  ,  cloud services  ,  c  ,  machine learning  ,  nosql  ,  neo4j",Posted few days ago
+289,Headhuntersinc consultancy Private Limited,0 - 3 yrs,Chennai,"data quality  ,  security  ,  bi  ,  mobile  ,  data transformation",Posted 3 days ago
+290,g7 cr technologies,0 - 1 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  data mining  ,  machine learning  ,  sql database",Posted 2 days ago
+291,SYSTEM SOFT INC.,1 - 4 yrs,Hyderabad/Secunderabad,"algorithms  ,  data warehousing  ,  sql  ,  hadoop  ,  big data  ,  nosql  ,  sql database",Posted few days ago
+292,ConcertAI,5 - 8 yrs,Bengaluru / Bangalore,"authoring  ,  scala  ,  sql  ,  database  ,  data structures  ,  big data  ,  python  ,  nosql  ,  cassandra  ,  infrastructure",Posted 5 days ago
+293,"Sarosh Karki
+     (More Jobs)",25 - 30 yrs,"Ahmedabad,  Chennai,  Gurgaon,  Hyderabad/Secunderabad,  Pune","Pharmaceutical Scientist  ,  Pharmacist  ,  Pharmaceutical  ,  Medicine  ,  Drug  ,  Pharmaceutical Industry  ,  Pharmacovigilance  ,  Clinical Data Management  ,  Clinical Research",Posted a month ago
+294,ARSR Technologies,2 - 7 yrs,Bengaluru / Bangalore,"python  ,  c    ,  sql  ,  nosql  ,  database  ,  java  ,  data structures",Posted 6 days ago
+295,AIR Worldwide,3 - 5 yrs,Hyderabad/Secunderabad,"information technology  ,  html  ,  big data  ,  python  ,  sql  ,  database  ,  postgresql  ,  cloud services  ,  rdbms  ,  management systems",Posted 4 days ago
+296,eurofins it solutions pvt ltd,5 - 8 yrs,"Chennai,  Bengaluru / Bangalore","product testing  ,  testing  ,  erp  /  crm  ,  l2  /  l3  ,  agile  ,  bi  ,  sql  ,  security  ,  writing  ,  jenkins  ,  information management  ,  software delivery  ,  mobile",Posted few days ago
+297,Sumo Digital Ltd,5 - 11 yrs,,"sql  ,  database  ,  security  ,  iam  ,  games  ,  data structures  ,  big data  ,  python  ,  pathway",Posted 5 days ago
+298,Infostretch Solution Pvt Ltd,17 - 20 yrs,,"business rules  ,  storage  ,  java  ,  apache  ,  software engineering  ,  data structures  ,  cloud computing  ,  mapreduce  ,  amazon s3  ,  java programming",Posted 2 days ago
+299,Koch Global Business Services,5 - 8 yrs,Bengaluru / Bangalore,"visualization  ,  bi  ,  dashboards  ,  data analysis  ,  spotfire  ,  mining  ,  data analyst  ,  tableau  ,  consultant  ,  data cleaning  ,  sql database",Posted few days ago
+300,crescendo global,6 - 8 yrs,Gurgaon,"devops  ,  software engineering  ,  api  ,  big data  ,  nosql  ,  bi  ,  technical specialist  ,  data warehousing  ,  sql  ,  database  ,  hadoop  ,  crm  ,  san",Posted few days ago
+301,HyreFox Consultants,8 - 11 yrs,"Mumbai,  Jaipur","apache  ,  devops  ,  python  ,  oracle  ,  impala  ,  amazon s3  ,  hive  ,  data mining  ,  data warehousing  ,  sql  ,  git  ,  software engineer  ,  rdbms  ,  infrastructure  ,  unix shell",Posted few days ago
+302,netomi  ( msgai labs ),3 - 6 yrs,Gurgaon,"hive  ,  scala  ,  storage  ,  artificial intelligence  ,  sql  ,  java  ,  software engineering  ,  hadoop  ,  hbase  ,  python  ,  oozie  ,  nosql  ,  cassandra  ,  infrastructure  ,  hdfs",Posted few days ago
+303,netomi  ( msgai labs ),3 - 6 yrs,Gurgaon,"hive  ,  scala  ,  storage  ,  artificial intelligence  ,  sql  ,  java  ,  software engineering  ,  hadoop  ,  hbase  ,  python  ,  oozie  ,  nosql  ,  cassandra  ,  infrastructure  ,  hdfs",Posted few days ago
+304,ZeroFOX,2 - 5 yrs,,"bi  ,  sql  ,  security  ,  apache  ,  cooking  ,  python  ,  machine learning",Posted few days ago
+305,IDP EDUCATION INDIA PVT LTD,1 - 2 yrs,Chennai,"algorithms  ,  bi  ,  sql  ,  crm  ,  python",Posted few days ago
+306,ZeroFOX,3 - 6 yrs,,"storage  ,  sql  ,  elastic search  ,  security  ,  software engineering  ,  cooking  ,  machine learning  ,  nosql",Posted few days ago
+307,Iqvia,10 - 13 yrs,"Mumbai,  Thane,  Delhi/NCR,  Pune,  Bengaluru / Bangalore","scientist  ,  regulatory  ,  research  ,  life sciences  ,  clinical operations  ,  clinical  ,  clinical research  ,  clinical development",Posted 2 days ago
+308,Iqvia,10 - 13 yrs,,"scientist  ,  regulatory  ,  research  ,  life sciences  ,  clinical operations  ,  clinical  ,  clinical research  ,  clinical development",Posted few days ago
+309,Iqvia,10 - 13 yrs,,"scientist  ,  regulatory  ,  research  ,  life sciences  ,  clinical operations  ,  clinical  ,  clinical research  ,  clinical development",Posted few days ago
+310,US Pharmacopeia,4 - 6 yrs,Hyderabad/Secunderabad,"ftir  ,  hplc  ,  qa  ,  organic chemistry  ,  gc  ,  chemistry  ,  wet  ,  glp",Posted few days ago
+311,US Pharmacopeia,5 - 7 yrs,Hyderabad/Secunderabad,"analytical instrumentation  ,  hplc  ,  icp  ,  kf  ,  gc  ,  calibration  ,  chemistry  ,  wet  ,  glp  ,  lab management  ,  quality standards  ,  laboratory testing",Posted few days ago
+312,WALMART INDIA,5 - 8 yrs,,"software engineering  ,  big data  ,  nosql  ,  cassandra  ,  hive  ,  data warehousing  ,  sql  ,  hadoop  ,  machine learning",Posted 6 days ago
+313,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Mumbai,  Dombivali,  Kalyan,  Navi Mumbai,  Thane","diploma  ,  data science  ,  Tableau",Posted a month ago
+314,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Mumbai,  Dombivali,  Kalyan,  Navi Mumbai,  Thane","intern  ,  data sceince",Posted a month ago
+315,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Pune,  Amravati,  Aurangabad,  Sangli,  Satara","data science  ,  Tableau",Posted a month ago
+316,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Pune,  Amravati,  Aurangabad,  Sangli,  Satara","diploma   ,  software engineer  ,  data science",Posted a month ago
+317,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Bhavnagar,  Gandhinagar,  Jamnagar,  Mehsana","Tableau  ,  diploma",Posted a month ago
+318,NUWARE SYSTEMS PVT LTD,3 - 6 yrs,Bengaluru / Bangalore,"python  ,  rdbms  ,  data mining  ,  machine learning  ,  sql  ,  senior software developer  ,  software developer",Posted few days ago
+319,CROSSROAD ELF DSS PRIVATE LIMITED,0 - 3 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  c    ,  bi  ,  machine learning  ,  sql  ,  database  ,  java  ,  linux  ,  linux shell scripting",Posted few days ago
+320,torcai digital media private limited,0 - 3 yrs,Dehradun,"metadata  ,  data engineer  ,  data warehousing  ,  storage  ,  data quality  ,  infrastructure",Posted 1 day ago
+321,colruyt it consultancy india pvt ltd.captive of colruyt belgium,10 - 13 yrs,Hyderabad/Secunderabad,"service oriented  ,  sql  ,  database  ,  git  ,  oops  ,  software engineering  ,  big data  ,  python  ,  infrastructure",Posted 6 days ago
+322,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Pune,  Amravati,  Aurangabad,  Sangli,  Satara","college project  ,  data science",Posted a month ago
+323,Cotocus,6 - 9 yrs,Bengaluru / Bangalore,"software design  ,  sql  ,  docker  ,  big data  ,  infrastructure",Posted few days ago
+324,resourceq services,0 - 3 yrs,Bengaluru / Bangalore,"hive  ,  fundamentals  ,  c    ,  scala  ,  sql  ,  pig  ,  d3.js  ,  database  ,  java  ,  software engineering  ,  c#  ,  python  ,  machine learning",Posted few days ago
+325,Colgate-Palmolive  ( India ),8 - 11 yrs,Mumbai,"information technology  ,  ajax  ,  spring  ,  java  ,  api  ,  python  ,  soap  ,  algorithms  ,  scala  ,  sql  ,  docker  ,  database  ,  git  ,  cloud services  ,  machine learning  ,  infrastructure  ,  production environment",Posted 1 day ago
+326,Veeva Systems,5 - 8 yrs,Canada,"use cases  ,  data analytics  ,  customer success  ,  director  ,  bi  ,  sql  ,  san  ,  data analysis  ,  data analyst  ,  tableau",Posted few days ago
+327,Veeva Systems,5 - 8 yrs,,"use cases  ,  data analytics  ,  customer success  ,  director  ,  bi  ,  sql  ,  san  ,  data analysis  ,  data analyst  ,  tableau",Posted few days ago
+328,Larsen & Toubro Infotech Ltd,8 - 12 yrs,Canada,"scala  ,  bi  ,  data warehousing  ,  sql  ,  database  ,  java  ,  technical skills  ,  big data  ,  cloud computing  ,  python",Posted 6 days ago
+329,Larsen & Toubro Infotech Ltd,5 - 8 yrs,Canada,"scala  ,  bi  ,  data warehousing  ,  sql  ,  database  ,  java  ,  technical skills  ,  big data  ,  cloud computing  ,  adf  ,  python",Posted 6 days ago
+330,Larsen & Toubro Infotech Ltd,3 - 6 yrs,,"scala  ,  hosting  ,  docker  ,  database  ,  technology consulting  ,  data structures  ,  telecom  ,  hadoop  ,  python  ,  machine learning  ,  written communication  ,  infrastructure",Posted few days ago
+331,TECHNOPARK TRIVANDRUM,5 - 8 yrs,Thiruvananthapuram,"artificial intelligence  ,  java  ,  big data  ,  python  ,  javascript  ,  nosql  ,  cassandra  ,  scala  ,  sql  ,  hadoop  ,  moodle  ,  cloud services  ,  machine learning  ,  ruby  ,  infrastructure  ,  php",Posted 6 days ago
+332,AMAZON INDIA PVT LTD,6 - 9 yrs,Bengaluru / Bangalore,"css  ,  c    ,  java  ,  apache  ,  xml  ,  devops  ,  html  ,  mysql  ,  shell scripting  ,  software engineering  ,  api  ,  c#  ,  python  ,  javascript  ,  nosql  ,  node.js  ,  hibernate  ,  jquery  ,  apache tomcat  ,  sql  ,  docker",Posted few days ago
+333,Veeva Systems,5 - 8 yrs,New York City,"recruitment process  ,  learning  ,  compensation",Posted few days ago
+334,livestream technologies  ( payroll- recruitree ),2 - 5 yrs,Bengaluru / Bangalore,"orchestration  ,  sql  ,  git  ,  apache  ,  python  ,  github",Posted 4 days ago
+335,The Smart Cube India Pvt Ltd,6 - 8 yrs,Noida/Greater Noida,"algorithms  ,  telecom  ,  big data  ,  python  ,  machine learning  ,  hdfs",Posted few days ago
+336,The Smart Cube India Pvt Ltd,10 - 13 yrs,Noida/Greater Noida,"algorithms  ,  telecom  ,  big data  ,  python  ,  machine learning  ,  hdfs",Posted few days ago
+337,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Mumbai,  Dombivali,  Kalyan,  Navi Mumbai,  Thane","project  ,  data science",Posted a month ago
+338,alliance recruitment agency,2 - 10 yrs,Pune,"hive  ,  algorithms  ,  data mining  ,  machine learning  ,  sql  ,  pig  ,  nosql  ,  d3.js  ,  cassandra  ,  mongodb  ,  hbase",Posted few days ago
+339,PUBLICIS GROUPE,0 - 3 yrs,"Gurgaon,  Mumbai,  Pune,  Bengaluru / Bangalore","sql  ,  cloud computing  ,  python  ,  machine learning",Posted few days ago
+340,Careem,12 - 15 yrs,Dubai,"data architecture  ,  software engineering  ,  etl  ,  data integration",Posted few days ago
+341,aroopa technologies pvt ltd,6 - 9 yrs,,"authoring  ,  data warehousing  ,  sql  ,  data extraction  ,  database  ,  data structures  ,  python  ,  oracle  ,  written communication  ,  infrastructure",Posted 4 days ago
+342,AIR Worldwide,0 - 3 yrs,,"html  ,  big data  ,  python  ,  fundamentals  ,  sql  ,  telecom  ,  technical skills",Posted 5 days ago
+343,Veeva Systems,5 - 8 yrs,,"dashboards  ,  use cases  ,  data analytics  ,  customer success  ,  director  ,  bi  ,  sql  ,  san  ,  data analysis  ,  tableau",Posted few days ago
+344,Veeva Systems,5 - 8 yrs,Canada,"dashboards  ,  use cases  ,  data analytics  ,  customer success  ,  director  ,  bi  ,  sql  ,  san  ,  data analysis  ,  tableau",Posted few days ago
+345,aeries technology group  ( sabre industries ),4 - 7 yrs,"Hyderabad/Secunderabad,  Mumbai,  Bengaluru / Bangalore","hive  ,  orchestration  ,  information technology  ,  bi  ,  data warehousing  ,  storage  ,  sql  ,  data extraction  ,  java  ,  atg  ,  software engineer  ,  cloud computing  ,  big data  ,  adf  ,  python  ,  team player  ,  ruby  ,  infrastructure",Posted few days ago
+346,Colgate-Palmolive  ( India ),5 - 8 yrs,Mumbai,"c    ,  information technology  ,  ajax  ,  spring  ,  java  ,  python  ,  javascript  ,  artificial neural networks  ,  reporting tools  ,  soap  ,  algorithms  ,  data mining  ,  data warehousing  ,  sql  ,  database  ,  c  ,  problem solving  ,  machine learning  ,  written communication",Posted few days ago
+347,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Chennai,  Delhi,  Hyderabad/Secunderabad","intern  ,  data science",Posted 3 days ago
+348,InteleANTS Virtual Workforce Private Limited,5 - 8 yrs,Chennai,"mysql  ,  api  ,  python  ,  adf  ,  nosql  ,  hosting  ,  storage  ,  sql  ,  security  ,  database  ,  mongodb  ,  c  ,  machine learning  ,  written communication  ,  infrastructure",Posted few days ago
+349,gartner india research and advisory services,0 - 2 yrs,Gurgaon,"apache  ,  java  ,  data structures  ,  python  ,  nosql  ,  software developer  ,  hive  ,  algorithms  ,  scala  ,  security  ,  git  ,  rest  ,  infrastructure  ,  hdfs",Posted 2 days ago
+350,Techversant,6 - 9 yrs,Cochin/ Kochi/ Ernakulam,"hive  ,  algorithms  ,  ensemble  ,  apache  ,  hadoop  ,  big data  ,  hbase  ,  python  ,  rdbms  ,  machine learning  ,  nosql  ,  cassandra  ,  hdfs",Posted 3 days ago
+351,nielsensports,3 - 6 yrs,New York City,"rest api  ,  apache  ,  java  ,  software engineering  ,  big data  ,  python  ,  data warehousing  ,  storage  ,  sql  ,  docker  ,  database  ,  git  ,  iam  ,  infrastructure",Posted few days ago
+352,RED HAT,8 - 11 yrs,Bengaluru / Bangalore,"sql  ,  software engineering  ,  python  ,  machine learning",Posted 2 days ago
+353,WALMART INDIA,7 - 10 yrs,,"java  ,  software engineering  ,  big data  ,  python  ,  scala  ,  data warehousing  ,  sql  ,  security  ,  database",Posted few days ago
+354,fiserv ce pvt ltd,10 - 13 yrs,Thane,"communication  ,  interpersonal skills  ,  job posting  ,  interview",Posted few days ago
+355,menorah personnel management india pvt ltd,7 - 10 yrs,Bengaluru / Bangalore,"cloudera  ,  hive  ,  bi  ,  pig  ,  java  ,  apache  ,  linux  ,  flume  ,  hadoop  ,  api  ,  big data  ,  mongodb  ,  hbase  ,  python  ,  rdbms  ,  oozie  ,  impala  ,  ruby  ,  nosql  ,  mapreduce  ,  cassandra  ,  cloud storage  ,  php  ,  hdfs  ,  sqoop",Posted few days ago
+356,Veeva Systems,5 - 8 yrs,,"learning  ,  mapping  ,  recruitment process",Posted few days ago
+357,Kwalee,2 - 5 yrs,Bengaluru / Bangalore,"html5  ,  senior software engineer  ,  database  ,  git  ,  couchbase  ,  jam  ,  games  ,  software engineer  ,  mysql  ,  datareports  ,  rest  ,  python  ,  simulator  ,  mobile  ,  machine learning  ,  javascript  ,  angularjs",Posted few days ago
+358,SRI RAMACHANDRA MEDICAL COLLEGE AND RESEARCH INSTITUTE,3 - 6 yrs,Chennai,"assistant professor  ,  Clinician scientists  ,  Teaching",Posted few days ago
+359,Randstad MENA,5 - 8 yrs,Mumbai,"hp service manager  ,  statistical analyst  ,  servicenow  ,  application support",Posted 3 days ago
+360,BizViz Technologies,5 - 8 yrs,"Hyderabad/Secunderabad,  Bengaluru / Bangalore","Java  ,   Scala  ,   Python  ,   MYSQL  ,   MS SQL  ,   NOSQL  ,   Columnar Databases  ,   Spark Streaming  ,   Apache Kafka  ,   design algorithms  ,   predictive analytics  ,  tenacity",Posted few days ago
+361,ZeroFOX,5 - 8 yrs,,"software engineering  ,  nosql  ,  technical leader  ,  storage  ,  sql  ,  security  ,  cooking  ,  cloud services  ,  machine learning",Posted 2 days ago
+362,palo alto networks  ( india )  pvt. ltd.,3 - 6 yrs,Bengaluru / Bangalore,"algorithms  ,  rest api  ,  artificial intelligence  ,  sql  ,  salesforce  ,  java  ,  apache  ,  api  ,  big data  ,  rest  ,  python  ,  problem solving  ,  infrastructure  ,  soap",Posted few days ago
+363,palo alto networks  ( india )  pvt. ltd.,3 - 6 yrs,Bengaluru / Bangalore,"algorithms  ,  rest api  ,  artificial intelligence  ,  sql  ,  salesforce  ,  java  ,  apache  ,  api  ,  big data  ,  rest  ,  python  ,  problem solving  ,  infrastructure  ,  soap",Posted few days ago
+364,Electronic Arts Games  ( India )  Pvt. Ltd.,3 - 6 yrs,Hyderabad/Secunderabad,"apex  ,  java  ,  apache  ,  xml  ,  games  ,  software engineering  ,  logicdesign  ,  python  ,  nosql  ,  hive  ,  algorithms  ,  bi  ,  mql  ,  storage  ,  sql  ,  database  ,  json  ,  debugging  ,  mobile  ,  machine learning",Posted 5 days ago
+365,ea games,3 - 6 yrs,Hyderabad/Secunderabad,"apex  ,  java  ,  apache  ,  xml  ,  games  ,  software engineering  ,  logicdesign  ,  python  ,  nosql  ,  hive  ,  algorithms  ,  bi  ,  mql  ,  storage  ,  sql  ,  database  ,  json  ,  debugging  ,  mobile  ,  machine learning",Posted 5 days ago
+366,Veeva Systems,3 - 6 yrs,Canada,"orchestration  ,  devops  ,  solution delivery  ,  cassandra  ,  bi  ,  sql  ,  security  ,  hbase  ,  san  ,  cloud services  ,  machine learning  ,  infrastructure  ,  leadership skills",Posted few days ago
+367,WALMART INDIA,3 - 6 yrs,,"information technology  ,  use cases  ,  data analytics  ,  bi  ,  data science  ,  statistical analysis  ,  visualization  ,  business requirements  ,  oracle  ,  data governance  ,  business solutions  ,  storage  ,  sql  ,  database  ,  security  ,  data visualization",Posted 4 days ago
+368,WALMART INDIA,4 - 7 yrs,,"visualization  ,  business requirements  ,  program management  ,  dashboards  ,  data analytics  ,  data mining  ,  bi  ,  storage  ,  sql  ,  data visualization  ,  data analysis  ,  predictive analytics  ,  data analyst  ,  tableau",Posted 6 days ago
+369,WALMART INDIA,3 - 6 yrs,,"typography  ,  information technology  ,  photoshop  ,  visual design  ,  bi  ,  sql  ,  ux design  ,  designing  ,  illustrator",Posted few days ago
+370,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Chennai,  Delhi,  Hyderabad/Secunderabad","engineer  ,  data sceince  ,  jobs",Posted a month ago
+371,lastminute.com group,3 - 5 yrs,Switzerland,"sql  ,  python  ,  problem solving  ,  team player  ,  machine learning",Posted few days ago
+372,"Maxgen Technologies
+     (More Jobs)",0 - 1 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Chennai,  Delhi,  Hyderabad/Secunderabad","engineer  ,  data science  ,  Tableau",Posted a month ago
+373,clean harbors,0 - 3 yrs,"Hyderabad/Secunderabad,  Pune,  Bengaluru / Bangalore","gcc  ,  data mining  ,  bi  ,  data warehousing  ,  production support  ,  sql database",Posted few days ago
+374,brickred  ( 3pillar global ),0 - 3 yrs,,"senior software engineer  ,  database  ,  apache  ,  hadoop  ,  mongodb  ,  c#  ,  mq  ,  microsoft azure  ,  machine learning  ,  messaging  ,  .net",Posted 2 days ago
+375,brickred  ( 3pillar global ),0 - 3 yrs,,"senior software engineer  ,  database  ,  apache  ,  hadoop  ,  mongodb  ,  c#  ,  mq  ,  microsoft azure  ,  machine learning  ,  messaging  ,  .net",Posted 2 days ago
+376,brickred  ( 3pillar global ),0 - 3 yrs,,"senior software engineer  ,  database  ,  apache  ,  hadoop  ,  mongodb  ,  c#  ,  mq  ,  microsoft azure  ,  machine learning  ,  messaging  ,  .net",Posted 2 days ago
+377,Careem,1 - 3 yrs,Cairo,"hive  ,  scala  ,  data warehousing  ,  sql  ,  database  ,  security  ,  java  ,  apache  ,  hadoop  ,  big data  ,  cloud computing  ,  python  ,  infrastructure",Posted few days ago
+378,Careem,0 - 3 yrs,Pakistan,"hive  ,  scala  ,  data warehousing  ,  sql  ,  database  ,  security  ,  java  ,  apache  ,  hadoop  ,  big data  ,  cloud computing  ,  python  ,  infrastructure",Posted few days ago
+379,ion trading india pvt. ltd.,1 - 3 yrs,Delhi,"cloudera  ,  bi  ,  java  ,  apache  ,  hadoop  ,  big data  ,  python  ,  c  ,  oracle  ,  machine learning  ,  javascript",Posted 2 days ago
+380,Veeva Systems,5 - 8 yrs,,"bi  ,  healthcare  ,  sql  ,  jira  ,  san  ,  director  ,  data integrity  ,  agile",Posted few days ago
+381,Quantium Analytics,8 - 11 yrs,Hyderabad/Secunderabad,"artificial intelligence  ,  api  ,  python  ,  sql  ,  git  ,  consultant  ,  cloud storage",Posted few days ago
+382,BOSTON SCIENTIFIC,2 - 4 yrs,,"c    ,  java  ,  api  ,  big data  ,  python  ,  algorithm development  ,  ensemble  ,  database  ,  git  ,  cloud computing  ,  rest  ,  machine learning  ,  neo4j",Posted few days ago
+383,gartner india research and advisory services,0 - 3 yrs,Gurgaon,"bi  ,  software engineering  ,  python  ,  machine learning  ,  infrastructure",Posted 2 days ago
+384,AbsolutData Research & Analytics  ( P )  Ltd,4 - 8 yrs,"Gurgaon,  Pune","telecommunication  ,  big data  ,  cli  ,  python  ,  nosql  ,  artificial neural networks  ,  hive  ,  algorithms  ,  ensemble  ,  database management  ,  hadoop  ,  cloud computing  ,  mongodb  ,  rdbms  ,  natural language processing  ,  engagement manager  ,  problem solving  ,  machine learning",Posted few days ago
+385,WALMART INDIA,10 - 13 yrs,,"algorithms  ,  information technology  ,  scala  ,  sql  ,  python  ,  machine learning",Posted 6 days ago
+386,Colgate-Palmolive  ( India ),2 - 3 yrs,Mumbai,"authoring  ,  orchestration  ,  information technology  ,  ajax  ,  spring  ,  java  ,  sap bw  ,  data structures  ,  api  ,  big data  ,  python  ,  nosql  ,  soap  ,  data warehousing  ,  storage  ,  sql  ,  database  ,  rdbms  ,  infrastructure  ,  cloud storage",Posted 3 days ago
+387,eMids Technologies Pvt Ltd,8 - 10 yrs,"Noida/Greater Noida,  Bengaluru / Bangalore","information technology  ,  senior software engineer  ,  apache  ,  devops  ,  big data  ,  nosql  ,  bi  ,  data warehousing  ,  storage  ,  sql  ,  security  ,  hadoop  ,  technical skills  ,  mobile",Posted few days ago
+388,tech holding,0 - 3 yrs,Bengaluru / Bangalore,"algorithms  ,  python  ,  orchestration  ,  natural language processing  ,  docker  ,  java  ,  apache",Posted 2 days ago
+389,tech holding,1 - 3 yrs,,"algorithms  ,  python  ,  orchestration  ,  natural language processing  ,  docker  ,  java  ,  apache",Posted few days ago
+390,tech holding,2 - 3 yrs,Mexico,"algorithms  ,  python  ,  orchestration  ,  natural language processing  ,  docker  ,  java  ,  apache",Posted few days ago
+391,Lalamove,0 - 3 yrs,Hong Kong,"python  ,  team player  ,  machine learning  ,  sql  ,  software engineer",Posted few days ago
+392,pype,2 - 6 yrs,Bengaluru / Bangalore,"image processing  ,  python  ,  problem solving  ,  machine learning  ,  hadoop  ,  opencv  ,  pattern recognition",Posted few days ago
+393,Veeva Systems,5 - 8 yrs,New York City,"dashboards  ,  use cases  ,  data analytics  ,  customer success  ,  director  ,  bi  ,  sql  ,  san  ,  data analysis  ,  tableau",Posted 5 days ago
+394,WALMART INDIA,8 - 11 yrs,,"information technology  ,  scala  ,  ds  ,  sql  ,  git  ,  python  ,  director  ,  machine learning",Posted 6 days ago
+395,PUBLICIS GROUPE,6 - 9 yrs,Bengaluru / Bangalore,"orchestration  ,  debugger  ,  oop  ,  python  ,  algorithms  ,  docker  ,  memory management  ,  git  ,  mongodb  ,  rest  ,  cloud services  ,  machine learning  ,  written communication  ,  data communication",Posted few days ago
+396,Colgate-Palmolive  ( India ),0 - 3 yrs,Mumbai,"authoring  ,  information technology  ,  ajax  ,  spring  ,  java  ,  data structures  ,  big data  ,  python  ,  nosql  ,  soap  ,  sql  ,  database  ,  hadoop  ,  mongodb  ,  cloud services  ,  composer  ,  neo4j  ,  infrastructure",Posted few days ago
+397,WALMART INDIA,8 - 11 yrs,,"information technology  ,  ds  ,  python  ,  director  ,  scala  ,  sql  ,  git  ,  machine learning",Posted 6 days ago
+398,rackspace technology,5 - 8 yrs,,"software engineering  ,  python  ,  ensemble  ,  sql  ,  security  ,  hadoop  ,  san  ,  problem solving  ,  team player  ,  machine learning",Posted few days ago
+399,AMAZON INDIA PVT LTD,10 - 13 yrs,Hyderabad/Secunderabad,"hive  ,  program management  ,  storage  ,  software engineering  ,  big data  ,  oracle  ,  machine learning",Posted few days ago
+400,ANTHEM BIOSCIENCES,0 - 3 yrs,Bengaluru / Bangalore,"molecular biology  ,  biology  ,  cell biology  ,  scientist  ,  biochemistry  ,  life sciences  ,  cloning",Posted few days ago
+401,INSPIRATION MANPOWER,10 - 15 yrs,Bengaluru / Bangalore,"metadata  ,  bi  ,  data architecture  ,  business intelligence  ,  sql  ,  data structures  ,  data transformation  ,  etl  ,  pl  /  sql  ,  rdbms  ,  mobile  ,  data architect  ,  hyperion  ,  consultant  ,  dwh  ,  infrastructure  ,  informatica",Posted 3 days ago
+402,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Bengaluru / Bangalore,  Belgaum,  Bellary,  Bidar,  Davanagere",Genuine offline data entry jobweekly payment,Posted few days ago
+403,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Ahmednagar,  Akola,  Amravati,  Aurangabad,  Bhiwandi",No rejection work daily payout ad posting copy paste,"
+Work from Home 
+		    	"
+404,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Bhilai-Durg,  Bilaspur,  Raipur,  Panjim/Panaji,  Vasco Da Gama",.Data administration Data Entry,"
+Work from Home 
+		    	"
+405,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Ahmednagar,  Akola,  Amravati,  Aurangabad,  Bhiwandi",Earn Income for your Pocket Money with Online work as Part Time,"
+Work from Home 
+		    	"
+406,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Hyderabad/Secunderabad,  Kolkata,  Mumbai,  Noida/Greater Noida,  Pune",Earn Income for your Pocket Money with Online work as Part Time,"
+Work from Home 
+		    	"
+407,"Saleem Khan
+     (More Jobs)",0 - 3 yrs,"Ahmedabad,  Bengaluru / Bangalore,  Chennai,  Delhi,  Kolkata",We need motivated and hard working people to earn money,"
+Work from Home 
+		    	"
+408,tech holding,2 - 3 yrs,Ahmedabad,"algorithms  ,  python  ,  orchestration  ,  natural language processing  ,  docker  ,  java  ,  apache",Posted few days ago
+409,Paytm,0 - 3 yrs,Noida/Greater Noida,"visualization  ,  product roadmap  ,  user stories  ,  dashboards  ,  data visualization  ,  functional specifications  ,  data analysis  ,  mobile",Posted few days ago
+410,Information Services Group,1 - 3 yrs,Bengaluru / Bangalore,"data analysis  ,  consulting  ,  data analyst  ,  database  ,  infrastructure  ,  advanced excel",Posted 2 days ago
+411,Tata Communications Ltd,4 - 7 yrs,Bengaluru / Bangalore,"information technology  ,  program management  ,  user interaction  ,  graphics  ,  qa  ,  usability  ,  user acceptance testing  ,  e2e  ,  testing  ,  solution delivery  ,  user documentation  ,  individual contributor  ,  it architecture  ,  data mining  ,  test cases  ,  agile methodology  ,  system testing  ,  uat  ,  multimedia  ,  integration testing",Posted few days ago
+412,HyreFox Consultants,0 - 3 yrs,Jaipur,"data analytics  ,  data analyst  ,   prioritize business",Posted 1 day ago
+413,JOHN CRANE SEALING SYSTEMS INDIA PVT LTD,4 - 6 yrs,Bengaluru / Bangalore,"visualization  ,  bi  ,  sql  ,  data extraction  ,  security  ,  advanced excel  ,  data visualization  ,  data analysis  ,  data analytics  ,  ms access  ,  data reports  ,  data analyst",Posted 2 days ago
+414,bekaert india technical center,5 - 8 yrs,Pune,"sql  ,  database  ,  data structures",Posted 4 days ago
+415,ea games,4 - 7 yrs,Hyderabad/Secunderabad,"bi  ,  data warehousing  ,  java  ,  etl  ,  data engineer  ,  mobile  ,  business intelligence tools",Posted 1 day ago
+416,Iron Systems Inc,15 - 18 yrs,"Delhi,  Delhi/NCR","visualization  ,  bi  ,  storage  ,  sql  ,  security  ,  data visualization  ,  data analytics  ,  data analysis  ,  infrastructure",Posted 3 days ago
+417,Principal Financial Services Inc.,0 - 2 yrs,Pune,"visualization  ,  bi  ,  sql  ,  data science  ,  statistical modeling  ,  oracle  ,  data analytics  ,  sas  ,  consulting  ,  data analyst  ,  alteryx  ,  tableau",Posted 3 days ago
+418,TERADATA INDIA PVT LTD,0 - 3 yrs,Mexico,"data analytics  ,  data analysis  ,  mx  ,  dashboards  ,  data analyst  ,  sql  ,  tableau  ,  data science  ,  data structures",Posted few days ago
+419,PAGO Analytics,3 - 6 yrs,Hyderabad/Secunderabad,"fundamentals  ,  hive  ,  python  ,  storage  ,  business environment  ,  sql  ,  written communication  ,  hadoop  ,  big data",Posted 1 day ago
+420,dun and bradstreet india pvt ltd,3 - 6 yrs,,"metadata  ,  storage  ,  sql  ,  security  ,  database  ,  etl  ,  data services  ,  data engineer  ,  data quality  ,  integration services  ,  ssis",Posted 6 days ago
+421,dun and bradstreet india pvt ltd,3 - 6 yrs,,"metadata  ,  storage  ,  sql  ,  security  ,  database  ,  etl  ,  data services  ,  data engineer  ,  data quality  ,  integration services  ,  ssis",Posted 6 days ago
+422,buck global llc,0 - 2 yrs,Pune,"visualization  ,  bi  ,  sql  ,  statistical modeling  ,  oracle  ,  data analytics  ,  sas  ,  consulting  ,  alteryx  ,  tableau",Posted 2 days ago
+423,PAGO Analytics,3 - 6 yrs,Hyderabad/Secunderabad,"fundamentals  ,  hive  ,  python  ,  storage  ,  business environment  ,  sql  ,  written communication  ,  hadoop  ,  big data",Posted 2 days ago
+424,Veeva Systems,0 - 3 yrs,Germany,"interpersonal skills  ,  Data Analyst  ,  communication",Posted few days ago
+425,Uscreen,3 - 6 yrs,Bengaluru / Bangalore,"dashboards  ,  sql  ,  data visualization  ,  data analytics  ,  data analysis  ,  customer success  ,  mobile  ,  data analyst",Posted few days ago
+426,Zoxima Solutions Pvt. Ltd.,3 - 8 yrs,,"reports  ,  Data Analysts  ,  MySQL",Posted few days ago
+427,PEOPLE TECH ENTERPRISES PRIVATE LIMITED,3 - 6 yrs,Canada,"data engineer  ,  data warehousing  ,  data mapping  ,  sql  ,  data modeling  ,  etl",Posted few days ago
+428,Allwyn Corporation,5 - 8 yrs,Philadelphia,"authoring  ,  sql  ,  java  ,  data structures  ,  python  ,  oracle  ,  nosql",Posted 4 days ago
+429,The Edge Asia,5 - 8 yrs,"Mumbai,  Pune","visualization  ,  data analytics  ,  consulting  ,  bi  ,  dashboards  ,  security  ,  tableau  ,  data governance  ,  data visualization",Posted few days ago
+430,zones corporate solutions,4 - 7 yrs,Noida/Greater Noida,"bi  ,  sql  ,  database management  ,  security  ,  big data  ,  crm  ,  director  ,  ms access",Posted 3 days ago
+431,PAGO Analytics,3 - 6 yrs,Hyderabad/Secunderabad,"fundamentals  ,  hive  ,  python  ,  storage  ,  business environment  ,  sql  ,  written communication  ,  hadoop  ,  big data",Posted 3 days ago
+432,TERADATA INDIA PVT LTD,2 - 3 yrs,Mexico,"pig  ,  java  ,  devops  ,  big data  ,  mx  ,  nosql  ,  groovy  ,  cassandra  ,  hive  ,  cloudera  ,  sql  ,  git  ,  linux  ,  telecom  ,  hadoop  ,  mongodb  ,  hbase  ,  sql development  ,  rdbms  ,  infrastructure",Posted 2 days ago
+433,Infostretch Solution Pvt Ltd,2 - 8 yrs,,"data warehousing  ,  storage  ,  database  ,  uml  ,  mysql  ,  big data  ,  mongodb  ,  oracle  ,  nosql  ,  cassandra",Posted 6 days ago
+434,Akzo Noble Pvt Ltd,0 - 2 yrs,Pune,"visualization  ,  business requirements  ,  advanced analytics  ,  data analytics  ,  alteryx  ,  bi  ,  data warehousing  ,  storage  ,  sql  ,  solution design  ,  bw  ,  rdbms  ,  solution architect  ,  spotfire  ,  tableau  ,  sql database",Posted 4 days ago
+435,PAGO Analytics,3 - 6 yrs,Hyderabad/Secunderabad,"fundamentals  ,  hive  ,  python  ,  storage  ,  business environment  ,  sql  ,  written communication  ,  hadoop  ,  big data",Posted 4 days ago
+436,CoWrks,0 - 3 yrs,Bengaluru / Bangalore,"data mining  ,  mining  ,  sql  ,   data analyst",Posted few days ago
+437,HyreFox Consultants,0 - 3 yrs,Jaipur,"data analytics  ,  business requirements  ,  bi  ,  dashboards  ,  data analyst  ,  sql  ,  tableau",Posted few days ago
+438,Larsen & Toubro Infotech Ltd,0 - 3 yrs,,"fundamentals  ,  data warehousing  ,  sql  ,  database  ,  security  ,  technology consulting  ,  pl  /  sql",Posted few days ago
+439,TECHNOPARK TRIVANDRUM,5 - 8 yrs,Thiruvananthapuram,"intellij  ,  artificial intelligence  ,  api  ,  pl  /  sql  ,  big data  ,  python  ,  maven  ,  javascript  ,  nosql  ,  eclipse  ,  database programming  ,  cassandra  ,  scala  ,  bi  ,  data warehousing  ,  storage  ,  sql  ,  database  ,  git  ,  hadoop  ,  mongodb  ,  moodle",Posted 6 days ago
+440,Triveni Engineering & Industries Ltd,2 - 6 yrs,"Surat,  Pune","sql  ,  database  ,  xml  ,  data structures  ,  big data",Posted few days ago
+441,Cotocus,0 - 3 yrs,Bengaluru / Bangalore,"data analysis  ,  data analyst  ,  data visualization",Posted few days ago
+442,TERADATA INDIA PVT LTD,8 - 11 yrs,,"bi  ,  data warehousing  ,  data architecture  ,  bo  ,  sql  ,  data modeling  ,  teradata  ,  qlikview  ,  project delivery  ,  data integration",Posted few days ago
+443,Acuity Knowledge Partners,2 - 5 yrs,,"san  ,  data warehousing  ,  sql  ,  data quality  ,  data modeling  ,  data profiling",Posted few days ago
+444,origin hr,7 - 10 yrs,Pune,"python  ,  c    ,  github  ,  java  ,  infrastructure  ,  devops  ,  sql",Posted 2 days ago
+445,Nineleaps,7 - 10 yrs,Bengaluru / Bangalore,"data mining  ,  bi  ,  sql  ,  xml  ,  python  ,  javascript",Posted few days ago
+446,ivy tech solutions,0 - 3 yrs,,"data quality  ,  information technology  ,  etl  ,  data integration",Posted few days ago
+447,INSPIRATION MANPOWER,3 - 8 yrs,Bengaluru / Bangalore,"data engineer  ,  bi  ,  mobile  ,  sql  ,  oracle sql  ,  etl",Posted few days ago
+448,advanced risk analytics private limited,0 - 3 yrs,Pune,"visualizing data  ,  data collection  ,  Flood data",Posted few days ago
+449,krazy mantra hr solutions,7 - 10 yrs,Ahmedabad,"bi  ,  storage  ,  devops  ,  linux  ,  pl  /  sql  ,  cloud services  ,  infrastructure",Posted 4 days ago
+450,CONNECTING 2 WORK,0 - 3 yrs,Thiruvananthapuram,"office equipment  ,  verbal communication  ,  word processing",Posted 4 days ago
+451,lastminute.com group,3 - 5 yrs,Switzerland,"scala  ,  sql  ,  java  ,  big data  ,  python  ,  composer  ,  mobile  ,  team player  ,  infrastructure",Posted few days ago
+452,apex jobs,0 - 3 yrs,Gurgaon,"macros  ,  data analytics  ,  data analysis  ,  sql  ,  tableau  ,  data visualization",Posted few days ago
+453,toolyt,0 - 3 yrs,Bengaluru / Bangalore,"data mining  ,  sql  ,  xml  ,  sas  ,  information management  ,  javascript  ,  business objects",Posted few days ago
+454,Veeva Systems,3 - 6 yrs,Washington DC,"bi  ,  sql  ,  unix scripting  ,  etl  ,  san  ,  data engineer  ,  data quality  ,  informatica",Posted few days ago
+455,Nineleaps,0 - 3 yrs,Bengaluru / Bangalore,"hive  ,  rest api  ,  sql  ,  docker  ,  pig  ,  git  ,  java  ,  hadoop  ,  big data  ,  hbase  ,  python  ,  infrastructure",Posted few days ago
+456,AugmatrixGo,5 - 10 yrs,Bengaluru / Bangalore,"good in DW  ,    BI Fundamentals  ,   Data QA",Posted few days ago
+457,dun and bradstreet india pvt ltd,5 - 8 yrs,,"wordpress  ,  data mining  ,  nt  ,  bi  ,  sharepoint  ,  sql  ,  html  ,  big data  ,  c#  ,  python  ,  javascript  ,  nosql",Posted few days ago
+458,INSPIRATION MANPOWER,3 - 7 yrs,Bengaluru / Bangalore,"bi  ,  mobile  ,  senior software engineer  ,  oracle sql  ,  sql",Posted 6 days ago
+459,cibirix digital media,2 - 5 yrs,,"advanced analytics  ,  visualization  ,  data analytics  ,  bi  ,  dashboards  ,  data analyst  ,  sql  ,  tableau  ,  data visualization",Posted few days ago
+460,Iqvia,0 - 3 yrs,Mexico,"problem solving  ,  exceptions  ,  sql  ,  database",Posted few days ago
+461,Larsen & Toubro Infotech Ltd,0 - 3 yrs,,"python  ,  sql  ,  database  ,  unix",Posted few days ago
+462,ADROIT LEARNING AND MANPOWER PVT LTD,7 - 10 yrs,Ahmedabad,"data analysis  ,  dashboards  ,  data analyst  ,  sql  ,  tableau  ,  infrastructure  ,  data visualization",Posted few days ago
+463,HyreFox Consultants,5 - 8 yrs,Chennai,"data science  ,  data cleaning  ,  dashboards",Posted few days ago
+464,CIGNEX Datamatics Technologies Pvt Ltd,10 - 13 yrs,Bengaluru / Bangalore,"fundamentals  ,  algorithms  ,  information technology  ,  sql  ,  git  ,  debugging  ,  software engineering  ,  data structures  ,  api  ,  mongodb  ,  adb  ,  hbase  ,  cloud services  ,  adf  ,  triggers  ,  nosql  ,  cassandra",Posted few days ago
+465,Veeva Systems,2 - 3 yrs,Spain,"java  ,  apache  ,  devops  ,  san  ,  python  ,  machine learning  ,  forms",Posted few days ago
+466,Veeva Systems,2 - 3 yrs,Germany,"java  ,  apache  ,  devops  ,  san  ,  python  ,  machine learning  ,  forms",Posted few days ago
+467,innefu labs pvt. ltd.,4 - 6 yrs,"Delhi,  Delhi/NCR","procedures  ,  data collection  ,   Commercial activities",Posted few days ago
+468,Veeva Systems,3 - 6 yrs,,"algorithms  ,  orchestration  ,  scala  ,  sql  ,  devops  ,  data structures  ,  san  ,  python  ,  reporting tools  ,  forms",Posted few days ago
+469,Veeva Systems,3 - 6 yrs,Spain,"algorithms  ,  orchestration  ,  scala  ,  sql  ,  devops  ,  data structures  ,  san  ,  python  ,  reporting tools  ,  forms",Posted few days ago
+470,RDA Labs,1 - 3 yrs,Bengaluru / Bangalore,"bi  ,  dashboards  ,  data analyst  ,  impact analysis  ,  analyst",Posted few days ago
+471,Ipseity Group,1 - 3 yrs,Bhopal,"reports  ,  vb  ,  data collection  ,  xml  ,  procedures",Posted few days ago
+472,TERADATA INDIA PVT LTD,2 - 5 yrs,Pakistan,"pig  ,  java  ,  devops  ,  big data  ,  nosql  ,  groovy  ,  cassandra  ,  hive  ,  cloudera  ,  sql  ,  git  ,  linux  ,  telecom  ,  hadoop  ,  mongodb  ,  hbase  ,  sql development  ,  rdbms  ,  infrastructure",Posted few days ago
+473,BARCODE INDIA LTD,4 - 7 yrs,Gurgaon,"algorithms  ,  data mining  ,  bi  ,  sql  ,  apache  ,  xml  ,  hadoop  ,  technical skills  ,  python  ,  oracle  ,  sas  ,  javascript  ,  written communication  ,  business objects",Posted few days ago
+474,HyreFox Consultants,0 - 3 yrs,Jaipur,"excel  ,  reports  ,  reporting  ,  monthly reports",Posted few days ago
+475,Cambium Networks,4 - 7 yrs,Bengaluru / Bangalore,"salesforce  ,  pmp  ,  mysql  ,  big data  ,  bi  ,  boomi  ,  sql  ,  technical skills  ,  infrastructure",Posted few days ago
+476,TandA HR Solutions,2 - 5 yrs,Mohali,"sas  ,  data mining  ,  javascript  ,  sql  ,  business objects  ,  xml",Posted few days ago
+477,tcg digital solutions pvt ltd,3 - 5 yrs,Kolkata,"data analytics  ,  functional analysis  ,  predictive analytics  ,  data science  ,  solution design",Posted few days ago
+478,menorah personnel management india pvt ltd,0 - 3 yrs,Thiruvananthapuram,"dba  ,  oracle dba  ,  Data Modeler",Posted few days ago
+479,mattsenkumar ( hyperquality ),1 - 3 yrs,Bengaluru / Bangalore,"scala  ,  data warehousing  ,  storage  ,  java  ,  iam  ,  postgresql  ,  mysql  ,  hadoop  ,  big data  ,  mongodb  ,  python  ,  access management  ,  nosql  ,  amazon s3  ,  cassandra  ,  written communication  ,  infrastructure",Posted few days ago
+480,alliance recruitment agency,4 - 8 yrs,Mumbai,"algorithms  ,  storage  ,  t-sql  ,  sql  ,  data extraction  ,  software engineering  ,  python  ,  os  ,  machine learning  ,  infrastructure",Posted few days ago
+481,AJANTA SOYA LIMITED,0 - 3 yrs,"Delhi,  Delhi/NCR","google search  ,   Vendor searches  ,    data collection",Posted few days ago
+482,TandA HR Solutions,3 - 5 yrs,Mohali,"functionaltesting  ,  performance testing  ,  bi  ,  sql  ,  security  ,  system integration  ,  writing  ,  data warehouse testing  ,  sql queries  ,  integration testing  ,  validation testing",Posted few days ago
+483,INSPIRATION MANPOWER,4 - 8 yrs,Bengaluru / Bangalore,"python  ,  bi  ,  mobile  ,  machine learning  ,  artificial intelligence  ,  sql",Posted few days ago
+484,INSPIRATION MANPOWER,4 - 10 yrs,Bengaluru / Bangalore,"python  ,  bi  ,  mobile  ,  microsoft azure  ,  machine learning  ,  sql  ,  database",Posted few days ago
+485,YuktaMedia LLP,0 - 2 yrs,Pune,"Information Systems  ,   Computer Science  ,   Computer Engineering  ,  Software Engineering",Posted few days ago
+486,Hexanika,0 - 3 yrs,Pune,"test data  ,  sql queries  ,  testing  ,  sql",Posted few days ago
+487,barracuda networks india pvt ltd,5 - 8 yrs,,"system administration  ,  database  ,  security  ,  java  ,  linux  ,  cloud computing  ,  python  ,  os  ,  windows  ,  javascript",Posted few days ago
+488,Veeva Systems,3 - 6 yrs,,"algorithms  ,  orchestration  ,  scala  ,  sql  ,  devops  ,  data structures  ,  san  ,  python  ,  reporting tools  ,  forms",Posted few days ago
+489,savitr software services pvt ltd,4 - 7 yrs,Hyderabad/Secunderabad,"hive  ,  github  ,  python  ,  scala  ,  sql  ,  docker  ,  java  ,  hadoop  ,  big data",Posted few days ago
+490,TandA HR Solutions,1 - 2 yrs,Chandigarh,"python  ,  bi  ,  data warehousing  ,  sql  ,  debugging  ,  sql database",Posted few days ago
+491,CROSSROAD ELF DSS PRIVATE LIMITED,0 - 3 yrs,Bengaluru / Bangalore,"algorithms  ,  data mining  ,  bi  ,  storage  ,  sql  ,  software engineering  ,  python  ,  oracle",Posted few days ago
+492,CMOTS INTERNET TECHNOLOGIES PVT LTD,0 - 2 yrs,Chennai,"MS-Excel   ,  ABBY Fine Reader OCR  ,   zoning   ,   data dissemination  ,   maintenance .",Posted few days ago
+493,BUSISOL SOURCING INDIA PVT. LTD,0 - 3 yrs,Mumbai,"charts  ,  data mining  ,  formulas  ,  relational database  ,  sql server  ,  reporting services",Posted few days ago
+494,menorah personnel management india pvt ltd,6 - 10 yrs,Bengaluru / Bangalore,"Data Engineer  ,  Manages computer systems  ,  manage multiple assignments",Posted few days ago
+495,HyreFox Consultants,4 - 7 yrs,Bengaluru / Bangalore,"storage  ,  database  ,  adf  ,  python  ,  cl  ,  sql scripting  ,  sql database",Posted few days ago
+496,Sagarsoft,5 - 8 yrs,Hyderabad/Secunderabad,"hive  ,  python  ,  oracle  ,  scala  ,  sql  ,  debugging  ,  sqoop",Posted few days ago
+497,alliance recruitment agency,4 - 6 yrs,Anand,"hive  ,  python  ,  problem solving  ,  big data  ,  sql",Posted few days ago
+498,alliance recruitment agency,4 - 6 yrs,Ahmedabad,"hive  ,  python  ,  problem solving  ,  big data  ,  sql",Posted few days ago
+499,nvish solutions,2 - 3 yrs,Chandigarh,"rdbms  ,  cassandra  ,  big data  ,  solution designer  ,  nosql",Posted few days ago
